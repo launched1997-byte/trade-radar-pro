@@ -1,0 +1,33 @@
+name: A-share Market Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC; corresponds roughly to China trading hours (weekdays).
+    - cron: '*/5 1-3 * * 1-5'
+    - cron: '*/5 5-7 * * 1-5'
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run scanner
+        run: python scanner.py
+      - name: Commit market data
+        run: |
+          git config user.name 'trade-radar-bot'
+          git config user.email 'actions@github.com'
+          git add data/market.json
+          git diff --cached --quiet || git commit -m "data: update market radar"
+          git push
