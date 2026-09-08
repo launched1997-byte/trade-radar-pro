@@ -1,37 +1,24 @@
 {
-  "updated_at": "2026-09-07 15:53:54",
+  "updated_at": "2026-09-08 09:16:30",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3012,
-    "limit_up": 84,
-    "limit_down": 2,
-    "avg_pct": 0.65,
-    "total_amount": 112081886.0
+    "limit_up": 0,
+    "limit_down": 0,
+    "avg_pct": 0.0,
+    "total_amount": 0.0
   },
   "radar": {
     "lianban": [],
     "second_wave": [],
     "main_rise": [],
-    "trend": [
-      {
-        "code": "603355",
-        "name": "莱克电气",
-        "price": 30.07,
-        "pct": 9.99,
-        "amount": 18313.0,
-        "turnover": 0.0,
-        "score": 45,
-        "tags": [],
-        "volume_ratio": 2.18,
-        "near_high": 0.951
-      }
-    ]
+    "trend": []
   },
   "source": "Tencent",
   "health": {
     "universe": 3012,
     "deep_scan": 250,
-    "records": 1,
+    "records": 0,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
