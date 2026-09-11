@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 11:39:55",
+  "updated_at": "2026-09-11 11:54:56",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3012,
@@ -11,44 +11,14 @@
   "radar": {
     "lianban": [],
     "second_wave": [],
-    "main_rise": [
-      {
-        "code": "002893",
-        "name": "京能热力",
-        "price": 10.91,
-        "pct": 0.37,
-        "amount": 20963.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "主升趋势"
-        ],
-        "volume_ratio": 1.26,
-        "near_high": 0.977
-      }
-    ],
-    "trend": [
-      {
-        "code": "002893",
-        "name": "京能热力",
-        "price": 10.91,
-        "pct": 0.37,
-        "amount": 20963.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "主升趋势"
-        ],
-        "volume_ratio": 1.26,
-        "near_high": 0.977
-      }
-    ]
+    "main_rise": [],
+    "trend": []
   },
   "source": "Tencent",
   "health": {
     "universe": 3012,
     "deep_scan": 250,
-    "records": 1,
+    "records": 0,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
