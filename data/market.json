@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 15:21:40",
+  "updated_at": "2026-09-14 15:37:38",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3012,
@@ -10,15 +10,222 @@
   },
   "radar": {
     "lianban": [],
-    "second_wave": [],
-    "main_rise": [],
-    "trend": []
+    "second_wave": [
+      {
+        "code": "603322",
+        "name": "超讯科技",
+        "price": 32.23,
+        "pct": 6.62,
+        "amount": 37804.0,
+        "turnover": 0.0,
+        "score": 53,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.81,
+        "near_high": 1.0
+      },
+      {
+        "code": "001326",
+        "name": "联域股份",
+        "price": 78.95,
+        "pct": 6.24,
+        "amount": 19494.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.14,
+        "near_high": 1.0
+      },
+      {
+        "code": "603119",
+        "name": "浙江荣泰",
+        "price": 53.67,
+        "pct": 6.11,
+        "amount": 66445.0,
+        "turnover": 0.0,
+        "score": 35,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.2,
+        "near_high": 0.717
+      },
+      {
+        "code": "600545",
+        "name": "卓郎智能",
+        "price": 4.45,
+        "pct": 6.46,
+        "amount": 85988.0,
+        "turnover": 0.0,
+        "score": 31,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.48,
+        "near_high": 0.553
+      },
+      {
+        "code": "002119",
+        "name": "康强电子",
+        "price": 24.13,
+        "pct": 6.39,
+        "amount": 116878.0,
+        "turnover": 0.0,
+        "score": 27,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.63,
+        "near_high": 0.6
+      }
+    ],
+    "main_rise": [
+      {
+        "code": "600609",
+        "name": "金杯汽车",
+        "price": 3.52,
+        "pct": 6.67,
+        "amount": 37622.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 5.03,
+        "near_high": 1.0
+      },
+      {
+        "code": "603322",
+        "name": "超讯科技",
+        "price": 32.23,
+        "pct": 6.62,
+        "amount": 37804.0,
+        "turnover": 0.0,
+        "score": 53,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.81,
+        "near_high": 1.0
+      }
+    ],
+    "trend": [
+      {
+        "code": "600609",
+        "name": "金杯汽车",
+        "price": 3.52,
+        "pct": 6.67,
+        "amount": 37622.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 5.03,
+        "near_high": 1.0
+      },
+      {
+        "code": "603322",
+        "name": "超讯科技",
+        "price": 32.23,
+        "pct": 6.62,
+        "amount": 37804.0,
+        "turnover": 0.0,
+        "score": 53,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.81,
+        "near_high": 1.0
+      },
+      {
+        "code": "002099",
+        "name": "海翔药业",
+        "price": 5.65,
+        "pct": 6.81,
+        "amount": 25310.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 1.96,
+        "near_high": 1.0
+      },
+      {
+        "code": "001326",
+        "name": "联域股份",
+        "price": 78.95,
+        "pct": 6.24,
+        "amount": 19494.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.14,
+        "near_high": 1.0
+      },
+      {
+        "code": "603119",
+        "name": "浙江荣泰",
+        "price": 53.67,
+        "pct": 6.11,
+        "amount": 66445.0,
+        "turnover": 0.0,
+        "score": 35,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.2,
+        "near_high": 0.717
+      },
+      {
+        "code": "600545",
+        "name": "卓郎智能",
+        "price": 4.45,
+        "pct": 6.46,
+        "amount": 85988.0,
+        "turnover": 0.0,
+        "score": 31,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.48,
+        "near_high": 0.553
+      },
+      {
+        "code": "002119",
+        "name": "康强电子",
+        "price": 24.13,
+        "pct": 6.39,
+        "amount": 116878.0,
+        "turnover": 0.0,
+        "score": 27,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.63,
+        "near_high": 0.6
+      }
+    ]
   },
   "source": "Tencent",
   "health": {
     "universe": 3012,
     "deep_scan": 250,
-    "records": 0,
+    "records": 7,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
