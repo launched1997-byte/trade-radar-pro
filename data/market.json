@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 11:54:22",
+  "updated_at": "2026-09-16 12:07:05",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3012,
@@ -10,91 +10,15 @@
   },
   "radar": {
     "lianban": [],
-    "second_wave": [
-      {
-        "code": "603657",
-        "name": "春光科技",
-        "price": 34.06,
-        "pct": 4.51,
-        "amount": 19365.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.26,
-        "near_high": 1.0
-      },
-      {
-        "code": "603956",
-        "name": "威派格",
-        "price": 6.63,
-        "pct": 4.41,
-        "amount": 13715.0,
-        "turnover": 0.0,
-        "score": 36,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.16,
-        "near_high": 0.83
-      }
-    ],
-    "main_rise": [
-      {
-        "code": "603657",
-        "name": "春光科技",
-        "price": 34.06,
-        "pct": 4.51,
-        "amount": 19365.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.26,
-        "near_high": 1.0
-      }
-    ],
-    "trend": [
-      {
-        "code": "603657",
-        "name": "春光科技",
-        "price": 34.06,
-        "pct": 4.51,
-        "amount": 19365.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.26,
-        "near_high": 1.0
-      },
-      {
-        "code": "603956",
-        "name": "威派格",
-        "price": 6.63,
-        "pct": 4.41,
-        "amount": 13715.0,
-        "turnover": 0.0,
-        "score": 36,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.16,
-        "near_high": 0.83
-      }
-    ]
+    "second_wave": [],
+    "main_rise": [],
+    "trend": []
   },
   "source": "Tencent",
   "health": {
     "universe": 3012,
     "deep_scan": 250,
-    "records": 2,
+    "records": 0,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
