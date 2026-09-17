@@ -1,122 +1,74 @@
 {
-  "updated_at": "2026-09-16 16:09:40",
+  "updated_at": "2026-09-17 09:17:04",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3012,
-    "limit_up": 75,
-    "limit_down": 4,
-    "avg_pct": 0.96,
-    "total_amount": 106013233.0
+    "limit_up": 0,
+    "limit_down": 0,
+    "avg_pct": 0.0,
+    "total_amount": 0.0
   },
   "radar": {
     "lianban": [],
-    "second_wave": [
-      {
-        "code": "001326",
-        "name": "联域股份",
-        "price": 85.4,
-        "pct": 9.99,
-        "amount": 26476.0,
-        "turnover": 0.0,
-        "score": 55,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.41,
-        "near_high": 1.0
-      },
-      {
-        "code": "002388",
-        "name": "新亚制程",
-        "price": 6.78,
-        "pct": 10.06,
-        "amount": 18010.0,
-        "turnover": 0.0,
-        "score": 36,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.77,
-        "near_high": 1.0
-      }
-    ],
+    "second_wave": [],
     "main_rise": [
       {
-        "code": "002442",
-        "name": "龙星科技",
-        "price": 5.68,
-        "pct": 10.08,
-        "amount": 12678.0,
+        "code": "600023",
+        "name": "浙能电力",
+        "price": 5.12,
+        "pct": 0.0,
+        "amount": 0.0,
         "turnover": 0.0,
-        "score": 56,
+        "score": 45,
         "tags": [
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 1.75,
-        "near_high": 1.0
-      },
-      {
-        "code": "001326",
-        "name": "联域股份",
-        "price": 85.4,
-        "pct": 9.99,
-        "amount": 26476.0,
-        "turnover": 0.0,
-        "score": 55,
-        "tags": [
-          "二波启动",
           "主升趋势"
         ],
-        "volume_ratio": 1.41,
-        "near_high": 1.0
+        "volume_ratio": 1.43,
+        "near_high": 0.987
+      },
+      {
+        "code": "600007",
+        "name": "中国国贸",
+        "price": 19.78,
+        "pct": 0.0,
+        "amount": 0.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "主升趋势"
+        ],
+        "volume_ratio": 1.43,
+        "near_high": 0.978
       }
     ],
     "trend": [
       {
-        "code": "002442",
-        "name": "龙星科技",
-        "price": 5.68,
-        "pct": 10.08,
-        "amount": 12678.0,
+        "code": "600023",
+        "name": "浙能电力",
+        "price": 5.12,
+        "pct": 0.0,
+        "amount": 0.0,
         "turnover": 0.0,
-        "score": 56,
+        "score": 45,
         "tags": [
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 1.75,
-        "near_high": 1.0
-      },
-      {
-        "code": "001326",
-        "name": "联域股份",
-        "price": 85.4,
-        "pct": 9.99,
-        "amount": 26476.0,
-        "turnover": 0.0,
-        "score": 55,
-        "tags": [
-          "二波启动",
           "主升趋势"
         ],
-        "volume_ratio": 1.41,
-        "near_high": 1.0
+        "volume_ratio": 1.43,
+        "near_high": 0.987
       },
       {
-        "code": "002388",
-        "name": "新亚制程",
-        "price": 6.78,
-        "pct": 10.06,
-        "amount": 18010.0,
+        "code": "600007",
+        "name": "中国国贸",
+        "price": 19.78,
+        "pct": 0.0,
+        "amount": 0.0,
         "turnover": 0.0,
-        "score": 36,
+        "score": 42,
         "tags": [
-          "二波启动"
+          "主升趋势"
         ],
-        "volume_ratio": 0.77,
-        "near_high": 1.0
+        "volume_ratio": 1.43,
+        "near_high": 0.978
       }
     ]
   },
@@ -124,7 +76,7 @@
   "health": {
     "universe": 3012,
     "deep_scan": 250,
-    "records": 3,
+    "records": 2,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
