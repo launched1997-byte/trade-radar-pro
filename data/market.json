@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 15:22:24",
+  "updated_at": "2026-09-18 15:36:42",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3013,
@@ -10,15 +10,446 @@
   },
   "radar": {
     "lianban": [],
-    "second_wave": [],
-    "main_rise": [],
-    "trend": []
+    "second_wave": [
+      {
+        "code": "002172",
+        "name": "澳洋健康",
+        "price": 5.28,
+        "pct": 4.97,
+        "amount": 134654.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.34,
+        "near_high": 1.0
+      },
+      {
+        "code": "002577",
+        "name": "雷柏科技",
+        "price": 21.9,
+        "pct": 5.14,
+        "amount": 44596.0,
+        "turnover": 0.0,
+        "score": 45,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 3.46,
+        "near_high": 1.0
+      },
+      {
+        "code": "600793",
+        "name": "宜宾纸业",
+        "price": 17.3,
+        "pct": 5.23,
+        "amount": 18687.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.74,
+        "near_high": 0.893
+      },
+      {
+        "code": "002008",
+        "name": "大族激光",
+        "price": 99.6,
+        "pct": 5.05,
+        "amount": 582086.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.33,
+        "near_high": 0.664
+      },
+      {
+        "code": "002138",
+        "name": "顺络电子",
+        "price": 52.52,
+        "pct": 5.19,
+        "amount": 180843.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.26,
+        "near_high": 0.703
+      },
+      {
+        "code": "001312",
+        "name": "福恩股份",
+        "price": 18.62,
+        "pct": 5.56,
+        "amount": 13759.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 4.14,
+        "near_high": 0.947
+      },
+      {
+        "code": "001393",
+        "name": "维通利",
+        "price": 43.9,
+        "pct": 5.48,
+        "amount": 23523.0,
+        "turnover": 0.0,
+        "score": 37,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.27,
+        "near_high": 0.8
+      },
+      {
+        "code": "600246",
+        "name": "万通发展",
+        "price": 13.7,
+        "pct": 5.22,
+        "amount": 154044.0,
+        "turnover": 0.0,
+        "score": 36,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.1,
+        "near_high": 0.659
+      },
+      {
+        "code": "003013",
+        "name": "地铁设计",
+        "price": 19.17,
+        "pct": 5.33,
+        "amount": 25573.0,
+        "turnover": 0.0,
+        "score": 33,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.19,
+        "near_high": 0.977
+      },
+      {
+        "code": "002156",
+        "name": "通富微电",
+        "price": 61.38,
+        "pct": 5.26,
+        "amount": 724576.0,
+        "turnover": 0.0,
+        "score": 27,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.8,
+        "near_high": 0.78
+      },
+      {
+        "code": "603435",
+        "name": "嘉德利",
+        "price": 50.32,
+        "pct": 5.25,
+        "amount": 26824.0,
+        "turnover": 0.0,
+        "score": 27,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.81,
+        "near_high": 0.737
+      },
+      {
+        "code": "600367",
+        "name": "红星发展",
+        "price": 38.0,
+        "pct": 4.86,
+        "amount": 174975.0,
+        "turnover": 0.0,
+        "score": 18,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.06,
+        "near_high": 0.596
+      }
+    ],
+    "main_rise": [
+      {
+        "code": "002172",
+        "name": "澳洋健康",
+        "price": 5.28,
+        "pct": 4.97,
+        "amount": 134654.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.34,
+        "near_high": 1.0
+      },
+      {
+        "code": "003013",
+        "name": "地铁设计",
+        "price": 19.17,
+        "pct": 5.33,
+        "amount": 25573.0,
+        "turnover": 0.0,
+        "score": 33,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.19,
+        "near_high": 0.977
+      }
+    ],
+    "trend": [
+      {
+        "code": "002172",
+        "name": "澳洋健康",
+        "price": 5.28,
+        "pct": 4.97,
+        "amount": 134654.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.34,
+        "near_high": 1.0
+      },
+      {
+        "code": "600790",
+        "name": "轻纺城",
+        "price": 3.63,
+        "pct": 5.83,
+        "amount": 18021.0,
+        "turnover": 0.0,
+        "score": 45,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 2.88,
+        "near_high": 1.0
+      },
+      {
+        "code": "002577",
+        "name": "雷柏科技",
+        "price": 21.9,
+        "pct": 5.14,
+        "amount": 44596.0,
+        "turnover": 0.0,
+        "score": 45,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 3.46,
+        "near_high": 1.0
+      },
+      {
+        "code": "600793",
+        "name": "宜宾纸业",
+        "price": 17.3,
+        "pct": 5.23,
+        "amount": 18687.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.74,
+        "near_high": 0.893
+      },
+      {
+        "code": "002008",
+        "name": "大族激光",
+        "price": 99.6,
+        "pct": 5.05,
+        "amount": 582086.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.33,
+        "near_high": 0.664
+      },
+      {
+        "code": "002138",
+        "name": "顺络电子",
+        "price": 52.52,
+        "pct": 5.19,
+        "amount": 180843.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.26,
+        "near_high": 0.703
+      },
+      {
+        "code": "001312",
+        "name": "福恩股份",
+        "price": 18.62,
+        "pct": 5.56,
+        "amount": 13759.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 4.14,
+        "near_high": 0.947
+      },
+      {
+        "code": "002780",
+        "name": "三夫户外",
+        "price": 14.1,
+        "pct": 5.7,
+        "amount": 23638.0,
+        "turnover": 0.0,
+        "score": 37,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 2.76,
+        "near_high": 0.987
+      },
+      {
+        "code": "001393",
+        "name": "维通利",
+        "price": 43.9,
+        "pct": 5.48,
+        "amount": 23523.0,
+        "turnover": 0.0,
+        "score": 37,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.27,
+        "near_high": 0.8
+      },
+      {
+        "code": "000797",
+        "name": "中国武夷",
+        "price": 2.69,
+        "pct": 5.91,
+        "amount": 22115.0,
+        "turnover": 0.0,
+        "score": 36,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 2.12,
+        "near_high": 1.0
+      },
+      {
+        "code": "001356",
+        "name": "富岭股份",
+        "price": 9.59,
+        "pct": 5.38,
+        "amount": 13859.0,
+        "turnover": 0.0,
+        "score": 36,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 2.27,
+        "near_high": 0.998
+      },
+      {
+        "code": "600246",
+        "name": "万通发展",
+        "price": 13.7,
+        "pct": 5.22,
+        "amount": 154044.0,
+        "turnover": 0.0,
+        "score": 36,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.1,
+        "near_high": 0.659
+      },
+      {
+        "code": "003013",
+        "name": "地铁设计",
+        "price": 19.17,
+        "pct": 5.33,
+        "amount": 25573.0,
+        "turnover": 0.0,
+        "score": 33,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.19,
+        "near_high": 0.977
+      },
+      {
+        "code": "002156",
+        "name": "通富微电",
+        "price": 61.38,
+        "pct": 5.26,
+        "amount": 724576.0,
+        "turnover": 0.0,
+        "score": 27,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.8,
+        "near_high": 0.78
+      },
+      {
+        "code": "603435",
+        "name": "嘉德利",
+        "price": 50.32,
+        "pct": 5.25,
+        "amount": 26824.0,
+        "turnover": 0.0,
+        "score": 27,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.81,
+        "near_high": 0.737
+      },
+      {
+        "code": "600367",
+        "name": "红星发展",
+        "price": 38.0,
+        "pct": 4.86,
+        "amount": 174975.0,
+        "turnover": 0.0,
+        "score": 18,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.06,
+        "near_high": 0.596
+      }
+    ]
   },
   "source": "Tencent",
   "health": {
     "universe": 3013,
     "deep_scan": 250,
-    "records": 0,
+    "records": 16,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
