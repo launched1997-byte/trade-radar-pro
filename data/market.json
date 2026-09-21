@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 15:21:55",
+  "updated_at": "2026-09-21 15:38:09",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3013,
@@ -10,22 +10,160 @@
   },
   "radar": {
     "lianban": [],
-    "second_wave": [],
-    "main_rise": [],
+    "second_wave": [
+      {
+        "code": "002927",
+        "name": "泰永长征",
+        "price": 20.51,
+        "pct": 5.45,
+        "amount": 39851.0,
+        "turnover": 0.0,
+        "score": 54,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.16,
+        "near_high": 1.0
+      }
+    ],
+    "main_rise": [
+      {
+        "code": "600626",
+        "name": "申达股份",
+        "price": 3.89,
+        "pct": 5.71,
+        "amount": 10751.0,
+        "turnover": 0.0,
+        "score": 55,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.44,
+        "near_high": 1.0
+      },
+      {
+        "code": "002927",
+        "name": "泰永长征",
+        "price": 20.51,
+        "pct": 5.45,
+        "amount": 39851.0,
+        "turnover": 0.0,
+        "score": 54,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.16,
+        "near_high": 1.0
+      },
+      {
+        "code": "600685",
+        "name": "中船防务",
+        "price": 30.31,
+        "pct": 5.32,
+        "amount": 78046.0,
+        "turnover": 0.0,
+        "score": 51,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.58,
+        "near_high": 1.0
+      },
+      {
+        "code": "600601",
+        "name": "方正科技",
+        "price": 15.25,
+        "pct": 5.17,
+        "amount": 402193.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "主升趋势"
+        ],
+        "volume_ratio": 1.24,
+        "near_high": 1.0
+      }
+    ],
     "trend": [
       {
-        "code": "002146",
-        "name": "荣盛发展",
-        "price": 1.26,
-        "pct": 5.0,
-        "amount": 33631.0,
+        "code": "600626",
+        "name": "申达股份",
+        "price": 3.89,
+        "pct": 5.71,
+        "amount": 10751.0,
         "turnover": 0.0,
-        "score": 43,
+        "score": 55,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.44,
+        "near_high": 1.0
+      },
+      {
+        "code": "002927",
+        "name": "泰永长征",
+        "price": 20.51,
+        "pct": 5.45,
+        "amount": 39851.0,
+        "turnover": 0.0,
+        "score": 54,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.16,
+        "near_high": 1.0
+      },
+      {
+        "code": "600685",
+        "name": "中船防务",
+        "price": 30.31,
+        "pct": 5.32,
+        "amount": 78046.0,
+        "turnover": 0.0,
+        "score": 51,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.58,
+        "near_high": 1.0
+      },
+      {
+        "code": "600601",
+        "name": "方正科技",
+        "price": 15.25,
+        "pct": 5.17,
+        "amount": 402193.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "主升趋势"
+        ],
+        "volume_ratio": 1.24,
+        "near_high": 1.0
+      },
+      {
+        "code": "603321",
+        "name": "梅轮电梯",
+        "price": 7.58,
+        "pct": 5.57,
+        "amount": 13865.0,
+        "turnover": 0.0,
+        "score": 34,
         "tags": [
           "放量突破"
         ],
-        "volume_ratio": 2.18,
-        "near_high": 0.992
+        "volume_ratio": 1.86,
+        "near_high": 0.988
       }
     ]
   },
@@ -33,7 +171,7 @@
   "health": {
     "universe": 3013,
     "deep_scan": 250,
-    "records": 1,
+    "records": 5,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
