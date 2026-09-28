@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-28 09:48:25",
+  "updated_at": "2026-09-28 10:00:45",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3013,
-    "limit_up": 17,
-    "limit_down": 19,
-    "avg_pct": -1.16,
-    "total_amount": 25483788.0
+    "limit_up": 18,
+    "limit_down": 25,
+    "avg_pct": -1.24,
+    "total_amount": 35173365.0
   },
   "radar": {
     "lianban": [
@@ -15,7 +15,7 @@
         "name": "雪龙集团",
         "price": 18.59,
         "pct": 10.0,
-        "amount": 24456.0,
+        "amount": 27833.0,
         "turnover": 0.0,
         "score": 60,
         "tags": [
@@ -24,7 +24,7 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 4.34,
+        "volume_ratio": 4.79,
         "near_high": 0.985
       },
       {
@@ -32,7 +32,7 @@
         "name": "福建水泥",
         "price": 7.28,
         "pct": 9.97,
-        "amount": 49193.0,
+        "amount": 50183.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -41,7 +41,23 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.84,
+        "volume_ratio": 1.87,
+        "near_high": 1.0
+      },
+      {
+        "code": "000678",
+        "name": "襄阳轴承",
+        "price": 10.65,
+        "pct": 10.02,
+        "amount": 32531.0,
+        "turnover": 0.0,
+        "score": 50,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.75,
         "near_high": 1.0
       },
       {
@@ -49,14 +65,14 @@
         "name": "金辰股份",
         "price": 39.2,
         "pct": 9.99,
-        "amount": 21247.0,
+        "amount": 28362.0,
         "turnover": 0.0,
-        "score": 47,
+        "score": 48,
         "tags": [
           "连板3",
           "二波启动"
         ],
-        "volume_ratio": 0.87,
+        "volume_ratio": 1.15,
         "near_high": 1.0
       },
       {
@@ -64,28 +80,13 @@
         "name": "新华传媒",
         "price": 8.55,
         "pct": 10.04,
-        "amount": 3278.0,
+        "amount": 3478.0,
         "turnover": 0.0,
         "score": 45,
         "tags": [
           "连板5"
         ],
-        "volume_ratio": 0.46,
-        "near_high": 1.0
-      },
-      {
-        "code": "603970",
-        "name": "中农立华",
-        "price": 13.39,
-        "pct": 10.02,
-        "amount": 6393.0,
-        "turnover": 0.0,
-        "score": 38,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 1.02,
+        "volume_ratio": 0.49,
         "near_high": 1.0
       }
     ],
@@ -95,7 +96,7 @@
         "name": "雪龙集团",
         "price": 18.59,
         "pct": 10.0,
-        "amount": 24456.0,
+        "amount": 27833.0,
         "turnover": 0.0,
         "score": 60,
         "tags": [
@@ -104,15 +105,29 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 4.34,
+        "volume_ratio": 4.79,
         "near_high": 0.985
+      },
+      {
+        "code": "000513",
+        "name": "丽珠集团",
+        "price": 30.34,
+        "pct": 10.01,
+        "amount": 64799.0,
+        "turnover": 0.0,
+        "score": 57,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 3.54,
+        "near_high": 0.963
       },
       {
         "code": "600802",
         "name": "福建水泥",
         "price": 7.28,
         "pct": 9.97,
-        "amount": 49193.0,
+        "amount": 50183.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -121,7 +136,23 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.84,
+        "volume_ratio": 1.87,
+        "near_high": 1.0
+      },
+      {
+        "code": "600356",
+        "name": "恒丰纸业",
+        "price": 11.56,
+        "pct": 8.65,
+        "amount": 29213.0,
+        "turnover": 0.0,
+        "score": 57,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.08,
         "near_high": 1.0
       },
       {
@@ -129,7 +160,7 @@
         "name": "跨境通",
         "price": 3.96,
         "pct": 10.0,
-        "amount": 93544.0,
+        "amount": 95250.0,
         "turnover": 0.0,
         "score": 56,
         "tags": [
@@ -137,61 +168,94 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.62,
+        "volume_ratio": 1.65,
         "near_high": 1.0
       },
       {
         "code": "000850",
         "name": "华茂股份",
-        "price": 5.44,
-        "pct": 6.25,
-        "amount": 68340.0,
+        "price": 5.41,
+        "pct": 5.66,
+        "amount": 83111.0,
         "turnover": 0.0,
-        "score": 56,
+        "score": 55,
         "tags": [
           "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 6.75,
+        "volume_ratio": 7.61,
         "near_high": 1.0
+      },
+      {
+        "code": "002413",
+        "name": "雷科防务",
+        "price": 9.43,
+        "pct": 5.13,
+        "amount": 181968.0,
+        "turnover": 0.0,
+        "score": 55,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 3.35,
+        "near_high": 0.982
       },
       {
         "code": "002242",
         "name": "九阳股份",
         "price": 10.33,
         "pct": 10.01,
-        "amount": 21701.0,
+        "amount": 22288.0,
         "turnover": 0.0,
         "score": 54,
         "tags": [
           "二波启动",
           "主升趋势"
         ],
-        "volume_ratio": 1.28,
+        "volume_ratio": 1.31,
         "near_high": 1.0
       },
       {
-        "code": "600356",
-        "name": "恒丰纸业",
-        "price": 11.57,
-        "pct": 8.74,
-        "amount": 16396.0,
+        "code": "002813",
+        "name": "路畅科技",
+        "price": 24.51,
+        "pct": 6.1,
+        "amount": 7658.0,
         "turnover": 0.0,
-        "score": 53,
+        "score": 54,
         "tags": [
           "二波启动",
-          "主升趋势"
+          "主升趋势",
+          "放量突破"
         ],
-        "volume_ratio": 1.27,
+        "volume_ratio": 2.17,
+        "near_high": 1.0
+      },
+      {
+        "code": "001317",
+        "name": "三羊马",
+        "price": 69.01,
+        "pct": 5.68,
+        "amount": 66472.0,
+        "turnover": 0.0,
+        "score": 52,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.81,
         "near_high": 1.0
       },
       {
         "code": "600293",
         "name": "三峡新材",
-        "price": 3.98,
-        "pct": 5.29,
-        "amount": 42430.0,
+        "price": 3.93,
+        "pct": 3.97,
+        "amount": 51723.0,
         "turnover": 0.0,
         "score": 51,
         "tags": [
@@ -199,17 +263,77 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.56,
+        "volume_ratio": 1.87,
         "near_high": 1.0
       },
       {
-        "code": "002813",
-        "name": "路畅科技",
-        "price": 24.18,
-        "pct": 4.68,
-        "amount": 5161.0,
+        "code": "000678",
+        "name": "襄阳轴承",
+        "price": 10.65,
+        "pct": 10.02,
+        "amount": 32531.0,
         "turnover": 0.0,
         "score": 50,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.75,
+        "near_high": 1.0
+      },
+      {
+        "code": "002480",
+        "name": "新筑股份",
+        "price": 5.65,
+        "pct": 9.92,
+        "amount": 10720.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.86,
+        "near_high": 0.983
+      },
+      {
+        "code": "600707",
+        "name": "彩虹股份",
+        "price": 10.22,
+        "pct": 7.69,
+        "amount": 260609.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.07,
+        "near_high": 0.758
+      },
+      {
+        "code": "600699",
+        "name": "均胜电子",
+        "price": 23.59,
+        "pct": 4.29,
+        "amount": 146712.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.48,
+        "near_high": 1.0
+      },
+      {
+        "code": "600207",
+        "name": "安彩高科",
+        "price": 5.37,
+        "pct": 4.07,
+        "amount": 27691.0,
+        "turnover": 0.0,
+        "score": 49,
         "tags": [
           "二波启动",
           "主升趋势",
@@ -219,101 +343,186 @@
         "near_high": 1.0
       },
       {
-        "code": "000790",
-        "name": "华神科技",
-        "price": 4.71,
-        "pct": 0.64,
-        "amount": 33325.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 3.08,
-        "near_high": 1.0
-      },
-      {
-        "code": "600207",
-        "name": "安彩高科",
-        "price": 5.39,
-        "pct": 4.46,
-        "amount": 24770.0,
-        "turnover": 0.0,
-        "score": 49,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.38,
-        "near_high": 1.0
-      },
-      {
-        "code": "600707",
-        "name": "彩虹股份",
-        "price": 10.26,
-        "pct": 8.11,
-        "amount": 223717.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.81,
-        "near_high": 0.757
-      },
-      {
         "code": "603396",
         "name": "金辰股份",
         "price": 39.2,
         "pct": 9.99,
-        "amount": 21247.0,
+        "amount": 28362.0,
         "turnover": 0.0,
-        "score": 47,
+        "score": 48,
         "tags": [
           "连板3",
           "二波启动"
         ],
-        "volume_ratio": 0.87,
+        "volume_ratio": 1.15,
         "near_high": 1.0
       },
       {
-        "code": "600699",
-        "name": "均胜电子",
-        "price": 23.41,
-        "pct": 3.49,
-        "amount": 119817.0,
+        "code": "000503",
+        "name": "国新健康",
+        "price": 7.44,
+        "pct": 10.06,
+        "amount": 29655.0,
         "turnover": 0.0,
         "score": 47,
         "tags": [
-          "二波启动",
-          "主升趋势"
+          "二波启动"
         ],
-        "volume_ratio": 1.24,
-        "near_high": 1.0
+        "volume_ratio": 3.17,
+        "near_high": 0.964
       },
       {
         "code": "000011",
         "name": "深物业A",
         "price": 10.12,
         "pct": 10.0,
-        "amount": 13666.0,
+        "amount": 15429.0,
         "turnover": 0.0,
         "score": 46,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 0.64,
+        "volume_ratio": 0.69,
         "near_high": 1.0
       },
       {
         "code": "600059",
         "name": "古越龙山",
-        "price": 11.97,
-        "pct": 8.82,
-        "amount": 64215.0,
+        "price": 11.83,
+        "pct": 7.55,
+        "amount": 85475.0,
         "turnover": 0.0,
         "score": 46,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.17,
+        "near_high": 1.0
+      },
+      {
+        "code": "002342",
+        "name": "巨力索具",
+        "price": 8.44,
+        "pct": 6.97,
+        "amount": 50038.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.29,
+        "near_high": 0.766
+      },
+      {
+        "code": "603970",
+        "name": "中农立华",
+        "price": 12.76,
+        "pct": 4.85,
+        "amount": 19964.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.9,
+        "near_high": 1.0
+      },
+      {
+        "code": "002935",
+        "name": "天奥电子",
+        "price": 18.65,
+        "pct": 3.15,
+        "amount": 23740.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.11,
+        "near_high": 0.827
+      },
+      {
+        "code": "002959",
+        "name": "小熊电器",
+        "price": 33.53,
+        "pct": 6.17,
+        "amount": 8161.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 4.24,
+        "near_high": 0.963
+      },
+      {
+        "code": "002395",
+        "name": "双象股份",
+        "price": 14.58,
+        "pct": 3.77,
+        "amount": 24336.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.64,
+        "near_high": 1.0
+      },
+      {
+        "code": "002669",
+        "name": "康达新材",
+        "price": 15.74,
+        "pct": 3.89,
+        "amount": 45479.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.17,
+        "near_high": 1.0
+      },
+      {
+        "code": "002099",
+        "name": "海翔药业",
+        "price": 6.1,
+        "pct": 4.81,
+        "amount": 12360.0,
+        "turnover": 0.0,
+        "score": 41,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.81,
+        "near_high": 1.0
+      },
+      {
+        "code": "002285",
+        "name": "世联行",
+        "price": 3.4,
+        "pct": 4.29,
+        "amount": 54669.0,
+        "turnover": 0.0,
+        "score": 41,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.94,
+        "near_high": 1.0
+      },
+      {
+        "code": "000592",
+        "name": "平潭发展",
+        "price": 9.13,
+        "pct": 3.99,
+        "amount": 277713.0,
+        "turnover": 0.0,
+        "score": 41,
         "tags": [
           "二波启动"
         ],
@@ -321,220 +530,18 @@
         "near_high": 1.0
       },
       {
-        "code": "002347",
-        "name": "泰尔股份",
-        "price": 6.42,
-        "pct": 9.93,
-        "amount": 15079.0,
-        "turnover": 0.0,
-        "score": 46,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 1.67,
-        "near_high": 1.0
-      },
-      {
-        "code": "001317",
-        "name": "三羊马",
-        "price": 66.12,
-        "pct": 1.26,
-        "amount": 44234.0,
-        "turnover": 0.0,
-        "score": 45,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.3,
-        "near_high": 1.0
-      },
-      {
-        "code": "002959",
-        "name": "小熊电器",
-        "price": 33.76,
-        "pct": 6.9,
-        "amount": 6853.0,
-        "turnover": 0.0,
-        "score": 43,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 3.69,
-        "near_high": 0.967
-      },
-      {
-        "code": "002395",
-        "name": "双象股份",
-        "price": 14.61,
-        "pct": 3.99,
-        "amount": 21461.0,
-        "turnover": 0.0,
-        "score": 43,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 2.36,
-        "near_high": 1.0
-      },
-      {
-        "code": "000592",
-        "name": "平潭发展",
-        "price": 9.23,
-        "pct": 5.13,
-        "amount": 252427.0,
-        "turnover": 0.0,
-        "score": 42,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.83,
-        "near_high": 1.0
-      },
-      {
-        "code": "002669",
-        "name": "康达新材",
-        "price": 15.83,
-        "pct": 4.49,
-        "amount": 37750.0,
-        "turnover": 0.0,
-        "score": 42,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.99,
-        "near_high": 1.0
-      },
-      {
-        "code": "603116",
-        "name": "红蜻蜓",
-        "price": 7.35,
-        "pct": 2.65,
-        "amount": 4814.0,
-        "turnover": 0.0,
-        "score": 41,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.19,
-        "near_high": 1.0
-      },
-      {
-        "code": "002099",
-        "name": "海翔药业",
-        "price": 6.09,
-        "pct": 4.64,
-        "amount": 8021.0,
+        "code": "000020",
+        "name": "深华发Ａ",
+        "price": 14.64,
+        "pct": 9.99,
+        "amount": 16110.0,
         "turnover": 0.0,
         "score": 40,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 0.54,
-        "near_high": 1.0
-      },
-      {
-        "code": "001211",
-        "name": "双枪科技",
-        "price": 26.83,
-        "pct": 4.48,
-        "amount": 7243.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.62,
-        "near_high": 1.0
-      },
-      {
-        "code": "603507",
-        "name": "振江股份",
-        "price": 27.82,
-        "pct": 4.0,
-        "amount": 16078.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.63,
-        "near_high": 1.0
-      },
-      {
-        "code": "603767",
-        "name": "中马传动",
-        "price": 15.2,
-        "pct": 3.12,
-        "amount": 22461.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 3.54,
-        "near_high": 0.955
-      },
-      {
-        "code": "603727",
-        "name": "博迈科",
-        "price": 18.9,
-        "pct": 3.62,
-        "amount": 2776.0,
-        "turnover": 0.0,
-        "score": 39,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.51,
+        "volume_ratio": 1.01,
         "near_high": 0.983
-      },
-      {
-        "code": "603373",
-        "name": "安邦护卫",
-        "price": 51.22,
-        "pct": 0.83,
-        "amount": 10699.0,
-        "turnover": 0.0,
-        "score": 39,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.15,
-        "near_high": 1.0
-      },
-      {
-        "code": "603970",
-        "name": "中农立华",
-        "price": 13.39,
-        "pct": 10.02,
-        "amount": 6393.0,
-        "turnover": 0.0,
-        "score": 38,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 1.02,
-        "near_high": 1.0
-      },
-      {
-        "code": "603909",
-        "name": "建发合诚",
-        "price": 10.17,
-        "pct": 2.94,
-        "amount": 3878.0,
-        "turnover": 0.0,
-        "score": 38,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.54,
-        "near_high": 1.0
       }
     ],
     "main_rise": [
@@ -543,7 +550,7 @@
         "name": "雪龙集团",
         "price": 18.59,
         "pct": 10.0,
-        "amount": 24456.0,
+        "amount": 27833.0,
         "turnover": 0.0,
         "score": 60,
         "tags": [
@@ -552,15 +559,30 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 4.34,
+        "volume_ratio": 4.79,
         "near_high": 0.985
+      },
+      {
+        "code": "603418",
+        "name": "友升股份",
+        "price": 49.59,
+        "pct": 9.93,
+        "amount": 25145.0,
+        "turnover": 0.0,
+        "score": 59,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.86,
+        "near_high": 1.0
       },
       {
         "code": "600802",
         "name": "福建水泥",
         "price": 7.28,
         "pct": 9.97,
-        "amount": 49193.0,
+        "amount": 50183.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -569,7 +591,23 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.84,
+        "volume_ratio": 1.87,
+        "near_high": 1.0
+      },
+      {
+        "code": "600356",
+        "name": "恒丰纸业",
+        "price": 11.56,
+        "pct": 8.65,
+        "amount": 29213.0,
+        "turnover": 0.0,
+        "score": 57,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.08,
         "near_high": 1.0
       },
       {
@@ -577,7 +615,7 @@
         "name": "跨境通",
         "price": 3.96,
         "pct": 10.0,
-        "amount": 93544.0,
+        "amount": 95250.0,
         "turnover": 0.0,
         "score": 56,
         "tags": [
@@ -585,76 +623,94 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.62,
+        "volume_ratio": 1.65,
         "near_high": 1.0
       },
       {
         "code": "000850",
         "name": "华茂股份",
-        "price": 5.44,
-        "pct": 6.25,
-        "amount": 68340.0,
+        "price": 5.41,
+        "pct": 5.66,
+        "amount": 83111.0,
         "turnover": 0.0,
-        "score": 56,
+        "score": 55,
         "tags": [
           "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 6.75,
+        "volume_ratio": 7.61,
         "near_high": 1.0
       },
       {
-        "code": "601811",
-        "name": "新华文轩",
-        "price": 21.4,
-        "pct": 5.16,
-        "amount": 61016.0,
+        "code": "002413",
+        "name": "雷科防务",
+        "price": 9.43,
+        "pct": 5.13,
+        "amount": 181968.0,
         "turnover": 0.0,
         "score": 55,
         "tags": [
+          "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 2.7,
-        "near_high": 1.0
+        "volume_ratio": 3.35,
+        "near_high": 0.982
       },
       {
         "code": "002242",
         "name": "九阳股份",
         "price": 10.33,
         "pct": 10.01,
-        "amount": 21701.0,
+        "amount": 22288.0,
         "turnover": 0.0,
         "score": 54,
         "tags": [
           "二波启动",
           "主升趋势"
         ],
-        "volume_ratio": 1.28,
+        "volume_ratio": 1.31,
         "near_high": 1.0
       },
       {
-        "code": "600356",
-        "name": "恒丰纸业",
-        "price": 11.57,
-        "pct": 8.74,
-        "amount": 16396.0,
+        "code": "002813",
+        "name": "路畅科技",
+        "price": 24.51,
+        "pct": 6.1,
+        "amount": 7658.0,
         "turnover": 0.0,
-        "score": 53,
+        "score": 54,
         "tags": [
           "二波启动",
-          "主升趋势"
+          "主升趋势",
+          "放量突破"
         ],
-        "volume_ratio": 1.27,
+        "volume_ratio": 2.17,
+        "near_high": 1.0
+      },
+      {
+        "code": "001317",
+        "name": "三羊马",
+        "price": 69.01,
+        "pct": 5.68,
+        "amount": 66472.0,
+        "turnover": 0.0,
+        "score": 52,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.81,
         "near_high": 1.0
       },
       {
         "code": "600293",
         "name": "三峡新材",
-        "price": 3.98,
-        "pct": 5.29,
-        "amount": 42430.0,
+        "price": 3.93,
+        "pct": 3.97,
+        "amount": 51723.0,
         "turnover": 0.0,
         "score": 51,
         "tags": [
@@ -662,46 +718,74 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.56,
+        "volume_ratio": 1.87,
         "near_high": 1.0
       },
       {
         "code": "002705",
         "name": "新宝股份",
-        "price": 12.21,
-        "pct": 3.74,
-        "amount": 12677.0,
+        "price": 12.12,
+        "pct": 2.97,
+        "amount": 15198.0,
         "turnover": 0.0,
         "score": 51,
         "tags": [
-          "主升趋势",
-          "放量突破"
+          "主升趋势"
         ],
-        "volume_ratio": 1.87,
-        "near_high": 0.991
+        "volume_ratio": 2.2,
+        "near_high": 0.983
       },
       {
         "code": "000498",
         "name": "山东路桥",
         "price": 5.74,
         "pct": 1.59,
-        "amount": 24398.0,
+        "amount": 28484.0,
         "turnover": 0.0,
         "score": 51,
         "tags": [
           "主升趋势"
         ],
-        "volume_ratio": 3.24,
+        "volume_ratio": 3.67,
         "near_high": 1.0
       },
       {
-        "code": "002813",
-        "name": "路畅科技",
-        "price": 24.18,
-        "pct": 4.68,
-        "amount": 5161.0,
+        "code": "600790",
+        "name": "轻纺城",
+        "price": 3.84,
+        "pct": 6.08,
+        "amount": 13456.0,
         "turnover": 0.0,
         "score": 50,
+        "tags": [
+          "主升趋势"
+        ],
+        "volume_ratio": 1.31,
+        "near_high": 1.0
+      },
+      {
+        "code": "600699",
+        "name": "均胜电子",
+        "price": 23.59,
+        "pct": 4.29,
+        "amount": 146712.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.48,
+        "near_high": 1.0
+      },
+      {
+        "code": "600207",
+        "name": "安彩高科",
+        "price": 5.37,
+        "pct": 4.07,
+        "amount": 27691.0,
+        "turnover": 0.0,
+        "score": 49,
         "tags": [
           "二波启动",
           "主升趋势",
@@ -711,108 +795,78 @@
         "near_high": 1.0
       },
       {
-        "code": "000790",
-        "name": "华神科技",
-        "price": 4.71,
-        "pct": 0.64,
-        "amount": 33325.0,
+        "code": "600059",
+        "name": "古越龙山",
+        "price": 11.83,
+        "pct": 7.55,
+        "amount": 85475.0,
         "turnover": 0.0,
-        "score": 50,
+        "score": 46,
         "tags": [
           "二波启动",
           "主升趋势"
         ],
-        "volume_ratio": 3.08,
-        "near_high": 1.0
-      },
-      {
-        "code": "600207",
-        "name": "安彩高科",
-        "price": 5.39,
-        "pct": 4.46,
-        "amount": 24770.0,
-        "turnover": 0.0,
-        "score": 49,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.38,
-        "near_high": 1.0
-      },
-      {
-        "code": "600699",
-        "name": "均胜电子",
-        "price": 23.41,
-        "pct": 3.49,
-        "amount": 119817.0,
-        "turnover": 0.0,
-        "score": 47,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.24,
-        "near_high": 1.0
-      },
-      {
-        "code": "001317",
-        "name": "三羊马",
-        "price": 66.12,
-        "pct": 1.26,
-        "amount": 44234.0,
-        "turnover": 0.0,
-        "score": 45,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.3,
+        "volume_ratio": 1.17,
         "near_high": 1.0
       },
       {
         "code": "600006",
         "name": "东风股份",
-        "price": 5.56,
-        "pct": 1.28,
-        "amount": 11402.0,
+        "price": 5.58,
+        "pct": 1.64,
+        "amount": 13574.0,
         "turnover": 0.0,
-        "score": 42,
+        "score": 43,
         "tags": [
           "主升趋势"
         ],
-        "volume_ratio": 1.26,
-        "near_high": 0.974
+        "volume_ratio": 1.46,
+        "near_high": 0.97
       },
       {
-        "code": "603116",
-        "name": "红蜻蜓",
-        "price": 7.35,
-        "pct": 2.65,
-        "amount": 4814.0,
+        "code": "002669",
+        "name": "康达新材",
+        "price": 15.74,
+        "pct": 3.89,
+        "amount": 45479.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.17,
+        "near_high": 1.0
+      },
+      {
+        "code": "601218",
+        "name": "吉鑫科技",
+        "price": 5.69,
+        "pct": 3.45,
+        "amount": 79924.0,
         "turnover": 0.0,
         "score": 41,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.61,
+        "near_high": 0.99
+      },
+      {
+        "code": "600616",
+        "name": "金枫酒业",
+        "price": 5.28,
+        "pct": 3.33,
+        "amount": 22988.0,
+        "turnover": 0.0,
+        "score": 34,
         "tags": [
           "二波启动",
           "主升趋势"
         ],
         "volume_ratio": 1.19,
-        "near_high": 1.0
-      },
-      {
-        "code": "603373",
-        "name": "安邦护卫",
-        "price": 51.22,
-        "pct": 0.83,
-        "amount": 10699.0,
-        "turnover": 0.0,
-        "score": 39,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.15,
-        "near_high": 1.0
+        "near_high": 0.985
       }
     ],
     "trend": [
@@ -821,7 +875,7 @@
         "name": "雪龙集团",
         "price": 18.59,
         "pct": 10.0,
-        "amount": 24456.0,
+        "amount": 27833.0,
         "turnover": 0.0,
         "score": 60,
         "tags": [
@@ -830,15 +884,44 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 4.34,
+        "volume_ratio": 4.79,
         "near_high": 0.985
+      },
+      {
+        "code": "603418",
+        "name": "友升股份",
+        "price": 49.59,
+        "pct": 9.93,
+        "amount": 25145.0,
+        "turnover": 0.0,
+        "score": 59,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.86,
+        "near_high": 1.0
+      },
+      {
+        "code": "000513",
+        "name": "丽珠集团",
+        "price": 30.34,
+        "pct": 10.01,
+        "amount": 64799.0,
+        "turnover": 0.0,
+        "score": 57,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 3.54,
+        "near_high": 0.963
       },
       {
         "code": "600802",
         "name": "福建水泥",
         "price": 7.28,
         "pct": 9.97,
-        "amount": 49193.0,
+        "amount": 50183.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -847,7 +930,23 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.84,
+        "volume_ratio": 1.87,
+        "near_high": 1.0
+      },
+      {
+        "code": "600356",
+        "name": "恒丰纸业",
+        "price": 11.56,
+        "pct": 8.65,
+        "amount": 29213.0,
+        "turnover": 0.0,
+        "score": 57,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 2.08,
         "near_high": 1.0
       },
       {
@@ -855,7 +954,7 @@
         "name": "跨境通",
         "price": 3.96,
         "pct": 10.0,
-        "amount": 93544.0,
+        "amount": 95250.0,
         "turnover": 0.0,
         "score": 56,
         "tags": [
@@ -863,76 +962,94 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.62,
+        "volume_ratio": 1.65,
         "near_high": 1.0
       },
       {
         "code": "000850",
         "name": "华茂股份",
-        "price": 5.44,
-        "pct": 6.25,
-        "amount": 68340.0,
+        "price": 5.41,
+        "pct": 5.66,
+        "amount": 83111.0,
         "turnover": 0.0,
-        "score": 56,
+        "score": 55,
         "tags": [
           "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 6.75,
+        "volume_ratio": 7.61,
         "near_high": 1.0
       },
       {
-        "code": "601811",
-        "name": "新华文轩",
-        "price": 21.4,
-        "pct": 5.16,
-        "amount": 61016.0,
+        "code": "002413",
+        "name": "雷科防务",
+        "price": 9.43,
+        "pct": 5.13,
+        "amount": 181968.0,
         "turnover": 0.0,
         "score": 55,
         "tags": [
+          "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 2.7,
-        "near_high": 1.0
+        "volume_ratio": 3.35,
+        "near_high": 0.982
       },
       {
         "code": "002242",
         "name": "九阳股份",
         "price": 10.33,
         "pct": 10.01,
-        "amount": 21701.0,
+        "amount": 22288.0,
         "turnover": 0.0,
         "score": 54,
         "tags": [
           "二波启动",
           "主升趋势"
         ],
-        "volume_ratio": 1.28,
+        "volume_ratio": 1.31,
         "near_high": 1.0
       },
       {
-        "code": "600356",
-        "name": "恒丰纸业",
-        "price": 11.57,
-        "pct": 8.74,
-        "amount": 16396.0,
+        "code": "002813",
+        "name": "路畅科技",
+        "price": 24.51,
+        "pct": 6.1,
+        "amount": 7658.0,
         "turnover": 0.0,
-        "score": 53,
+        "score": 54,
         "tags": [
           "二波启动",
-          "主升趋势"
+          "主升趋势",
+          "放量突破"
         ],
-        "volume_ratio": 1.27,
+        "volume_ratio": 2.17,
+        "near_high": 1.0
+      },
+      {
+        "code": "001317",
+        "name": "三羊马",
+        "price": 69.01,
+        "pct": 5.68,
+        "amount": 66472.0,
+        "turnover": 0.0,
+        "score": 52,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.81,
         "near_high": 1.0
       },
       {
         "code": "600293",
         "name": "三峡新材",
-        "price": 3.98,
-        "pct": 5.29,
-        "amount": 42430.0,
+        "price": 3.93,
+        "pct": 3.97,
+        "amount": 51723.0,
         "turnover": 0.0,
         "score": 51,
         "tags": [
@@ -940,46 +1057,131 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.56,
+        "volume_ratio": 1.87,
         "near_high": 1.0
       },
       {
         "code": "002705",
         "name": "新宝股份",
-        "price": 12.21,
-        "pct": 3.74,
-        "amount": 12677.0,
+        "price": 12.12,
+        "pct": 2.97,
+        "amount": 15198.0,
         "turnover": 0.0,
         "score": 51,
         "tags": [
-          "主升趋势",
-          "放量突破"
+          "主升趋势"
         ],
-        "volume_ratio": 1.87,
-        "near_high": 0.991
+        "volume_ratio": 2.2,
+        "near_high": 0.983
       },
       {
         "code": "000498",
         "name": "山东路桥",
         "price": 5.74,
         "pct": 1.59,
-        "amount": 24398.0,
+        "amount": 28484.0,
         "turnover": 0.0,
         "score": 51,
         "tags": [
           "主升趋势"
         ],
-        "volume_ratio": 3.24,
+        "volume_ratio": 3.67,
         "near_high": 1.0
       },
       {
-        "code": "002813",
-        "name": "路畅科技",
-        "price": 24.18,
-        "pct": 4.68,
-        "amount": 5161.0,
+        "code": "000678",
+        "name": "襄阳轴承",
+        "price": 10.65,
+        "pct": 10.02,
+        "amount": 32531.0,
         "turnover": 0.0,
         "score": 50,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.75,
+        "near_high": 1.0
+      },
+      {
+        "code": "600790",
+        "name": "轻纺城",
+        "price": 3.84,
+        "pct": 6.08,
+        "amount": 13456.0,
+        "turnover": 0.0,
+        "score": 50,
+        "tags": [
+          "主升趋势"
+        ],
+        "volume_ratio": 1.31,
+        "near_high": 1.0
+      },
+      {
+        "code": "002962",
+        "name": "五方光电",
+        "price": 14.76,
+        "pct": 9.99,
+        "amount": 21269.0,
+        "turnover": 0.0,
+        "score": 50,
+        "tags": [],
+        "volume_ratio": 1.87,
+        "near_high": 0.91
+      },
+      {
+        "code": "002480",
+        "name": "新筑股份",
+        "price": 5.65,
+        "pct": 9.92,
+        "amount": 10720.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.86,
+        "near_high": 0.983
+      },
+      {
+        "code": "600707",
+        "name": "彩虹股份",
+        "price": 10.22,
+        "pct": 7.69,
+        "amount": 260609.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.07,
+        "near_high": 0.758
+      },
+      {
+        "code": "600699",
+        "name": "均胜电子",
+        "price": 23.59,
+        "pct": 4.29,
+        "amount": 146712.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.48,
+        "near_high": 1.0
+      },
+      {
+        "code": "600207",
+        "name": "安彩高科",
+        "price": 5.37,
+        "pct": 4.07,
+        "amount": 27691.0,
+        "turnover": 0.0,
+        "score": 49,
         "tags": [
           "二波启动",
           "主升趋势",
@@ -989,581 +1191,42 @@
         "near_high": 1.0
       },
       {
-        "code": "000790",
-        "name": "华神科技",
-        "price": 4.71,
-        "pct": 0.64,
-        "amount": 33325.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 3.08,
-        "near_high": 1.0
-      },
-      {
-        "code": "002962",
-        "name": "五方光电",
-        "price": 14.76,
-        "pct": 9.99,
-        "amount": 18745.0,
-        "turnover": 0.0,
-        "score": 49,
-        "tags": [],
-        "volume_ratio": 1.67,
-        "near_high": 0.91
-      },
-      {
-        "code": "600207",
-        "name": "安彩高科",
-        "price": 5.39,
-        "pct": 4.46,
-        "amount": 24770.0,
-        "turnover": 0.0,
-        "score": 49,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.38,
-        "near_high": 1.0
-      },
-      {
-        "code": "600707",
-        "name": "彩虹股份",
-        "price": 10.26,
-        "pct": 8.11,
-        "amount": 223717.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.81,
-        "near_high": 0.757
-      },
-      {
         "code": "603396",
         "name": "金辰股份",
         "price": 39.2,
         "pct": 9.99,
-        "amount": 21247.0,
+        "amount": 28362.0,
         "turnover": 0.0,
-        "score": 47,
+        "score": 48,
         "tags": [
           "连板3",
           "二波启动"
         ],
-        "volume_ratio": 0.87,
+        "volume_ratio": 1.15,
         "near_high": 1.0
       },
       {
-        "code": "600699",
-        "name": "均胜电子",
-        "price": 23.41,
-        "pct": 3.49,
-        "amount": 119817.0,
+        "code": "000503",
+        "name": "国新健康",
+        "price": 7.44,
+        "pct": 10.06,
+        "amount": 29655.0,
         "turnover": 0.0,
         "score": 47,
         "tags": [
-          "二波启动",
-          "主升趋势"
+          "二波启动"
         ],
-        "volume_ratio": 1.24,
-        "near_high": 1.0
+        "volume_ratio": 3.17,
+        "near_high": 0.964
       },
       {
         "code": "000011",
         "name": "深物业A",
         "price": 10.12,
         "pct": 10.0,
-        "amount": 13666.0,
+        "amount": 15429.0,
         "turnover": 0.0,
         "score": 46,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.64,
-        "near_high": 1.0
-      },
-      {
-        "code": "600059",
-        "name": "古越龙山",
-        "price": 11.97,
-        "pct": 8.82,
-        "amount": 64215.0,
-        "turnover": 0.0,
-        "score": 46,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.9,
-        "near_high": 1.0
-      },
-      {
-        "code": "002347",
-        "name": "泰尔股份",
-        "price": 6.42,
-        "pct": 9.93,
-        "amount": 15079.0,
-        "turnover": 0.0,
-        "score": 46,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 1.67,
-        "near_high": 1.0
-      },
-      {
-        "code": "600825",
-        "name": "新华传媒",
-        "price": 8.55,
-        "pct": 10.04,
-        "amount": 3278.0,
-        "turnover": 0.0,
-        "score": 45,
-        "tags": [
-          "连板5"
-        ],
-        "volume_ratio": 0.46,
-        "near_high": 1.0
-      },
-      {
-        "code": "001317",
-        "name": "三羊马",
-        "price": 66.12,
-        "pct": 1.26,
-        "amount": 44234.0,
-        "turnover": 0.0,
-        "score": 45,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.3,
-        "near_high": 1.0
-      },
-      {
-        "code": "002959",
-        "name": "小熊电器",
-        "price": 33.76,
-        "pct": 6.9,
-        "amount": 6853.0,
-        "turnover": 0.0,
-        "score": 43,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 3.69,
-        "near_high": 0.967
-      },
-      {
-        "code": "002395",
-        "name": "双象股份",
-        "price": 14.61,
-        "pct": 3.99,
-        "amount": 21461.0,
-        "turnover": 0.0,
-        "score": 43,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 2.36,
-        "near_high": 1.0
-      },
-      {
-        "code": "000592",
-        "name": "平潭发展",
-        "price": 9.23,
-        "pct": 5.13,
-        "amount": 252427.0,
-        "turnover": 0.0,
-        "score": 42,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.83,
-        "near_high": 1.0
-      },
-      {
-        "code": "002669",
-        "name": "康达新材",
-        "price": 15.83,
-        "pct": 4.49,
-        "amount": 37750.0,
-        "turnover": 0.0,
-        "score": 42,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.99,
-        "near_high": 1.0
-      },
-      {
-        "code": "600006",
-        "name": "东风股份",
-        "price": 5.56,
-        "pct": 1.28,
-        "amount": 11402.0,
-        "turnover": 0.0,
-        "score": 42,
-        "tags": [
-          "主升趋势"
-        ],
-        "volume_ratio": 1.26,
-        "near_high": 0.974
-      },
-      {
-        "code": "603116",
-        "name": "红蜻蜓",
-        "price": 7.35,
-        "pct": 2.65,
-        "amount": 4814.0,
-        "turnover": 0.0,
-        "score": 41,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.19,
-        "near_high": 1.0
-      },
-      {
-        "code": "002099",
-        "name": "海翔药业",
-        "price": 6.09,
-        "pct": 4.64,
-        "amount": 8021.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.54,
-        "near_high": 1.0
-      },
-      {
-        "code": "001211",
-        "name": "双枪科技",
-        "price": 26.83,
-        "pct": 4.48,
-        "amount": 7243.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.62,
-        "near_high": 1.0
-      },
-      {
-        "code": "603507",
-        "name": "振江股份",
-        "price": 27.82,
-        "pct": 4.0,
-        "amount": 16078.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.63,
-        "near_high": 1.0
-      },
-      {
-        "code": "603767",
-        "name": "中马传动",
-        "price": 15.2,
-        "pct": 3.12,
-        "amount": 22461.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 3.54,
-        "near_high": 0.955
-      },
-      {
-        "code": "002583",
-        "name": "海能达",
-        "price": 8.67,
-        "pct": 7.97,
-        "amount": 44468.0,
-        "turnover": 0.0,
-        "score": 39,
-        "tags": [
-          "放量突破"
-        ],
-        "volume_ratio": 2.75,
-        "near_high": 0.993
-      },
-      {
-        "code": "603727",
-        "name": "博迈科",
-        "price": 18.9,
-        "pct": 3.62,
-        "amount": 2776.0,
-        "turnover": 0.0,
-        "score": 39,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.51,
-        "near_high": 0.983
-      },
-      {
-        "code": "603373",
-        "name": "安邦护卫",
-        "price": 51.22,
-        "pct": 0.83,
-        "amount": 10699.0,
-        "turnover": 0.0,
-        "score": 39,
-        "tags": [
-          "二波启动",
-          "主升趋势"
-        ],
-        "volume_ratio": 1.15,
-        "near_high": 1.0
-      },
-      {
-        "code": "603970",
-        "name": "中农立华",
-        "price": 13.39,
-        "pct": 10.02,
-        "amount": 6393.0,
-        "turnover": 0.0,
-        "score": 38,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 1.02,
-        "near_high": 1.0
-      },
-      {
-        "code": "603909",
-        "name": "建发合诚",
-        "price": 10.17,
-        "pct": 2.94,
-        "amount": 3878.0,
-        "turnover": 0.0,
-        "score": 38,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.54,
-        "near_high": 1.0
-      },
-      {
-        "code": "603105",
-        "name": "芯能科技",
-        "price": 8.91,
-        "pct": 2.65,
-        "amount": 11603.0,
-        "turnover": 0.0,
-        "score": 38,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.49,
-        "near_high": 1.0
-      },
-      {
-        "code": "000503",
-        "name": "国新健康",
-        "price": 7.28,
-        "pct": 7.69,
-        "amount": 21146.0,
-        "turnover": 0.0,
-        "score": 36,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 2.47,
-        "near_high": 0.952
-      },
-      {
-        "code": "603278",
-        "name": "大业股份",
-        "price": 10.17,
-        "pct": 3.78,
-        "amount": 33558.0,
-        "turnover": 0.0,
-        "score": 36,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 3.99,
-        "near_high": 0.932
-      },
-      {
-        "code": "603677",
-        "name": "奇精机械",
-        "price": 14.67,
-        "pct": 1.59,
-        "amount": 800.0,
-        "turnover": 0.0,
-        "score": 36,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.29,
-        "near_high": 1.0
-      },
-      {
-        "code": "600206",
-        "name": "有研新材",
-        "price": 52.35,
-        "pct": 5.1,
-        "amount": 228205.0,
-        "turnover": 0.0,
-        "score": 34,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.62,
-        "near_high": 0.87
-      },
-      {
-        "code": "603092",
-        "name": "德力佳",
-        "price": 47.45,
-        "pct": 3.49,
-        "amount": 9050.0,
-        "turnover": 0.0,
-        "score": 34,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.05,
-        "near_high": 0.878
-      },
-      {
-        "code": "002568",
-        "name": "百润股份",
-        "price": 19.66,
-        "pct": 2.13,
-        "amount": 10223.0,
-        "turnover": 0.0,
-        "score": 34,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.48,
-        "near_high": 0.956
-      },
-      {
-        "code": "002374",
-        "name": "中锐股份",
-        "price": 3.28,
-        "pct": 1.86,
-        "amount": 2531.0,
-        "turnover": 0.0,
-        "score": 34,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.5,
-        "near_high": 0.965
-      },
-      {
-        "code": "001330",
-        "name": "博纳影业",
-        "price": 6.36,
-        "pct": 10.03,
-        "amount": 16128.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.18,
-        "near_high": 1.0
-      },
-      {
-        "code": "600418",
-        "name": "江淮汽车",
-        "price": 23.89,
-        "pct": 4.19,
-        "amount": 138012.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.76,
-        "near_high": 0.91
-      },
-      {
-        "code": "600616",
-        "name": "金枫酒业",
-        "price": 5.3,
-        "pct": 3.72,
-        "amount": 18963.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.0,
-        "near_high": 0.989
-      },
-      {
-        "code": "603087",
-        "name": "甘李药业",
-        "price": 74.56,
-        "pct": 1.53,
-        "amount": 18759.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.4,
-        "near_high": 0.964
-      },
-      {
-        "code": "002434",
-        "name": "万里扬",
-        "price": 6.27,
-        "pct": 1.62,
-        "amount": 3868.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.41,
-        "near_high": 0.966
-      },
-      {
-        "code": "600573",
-        "name": "惠泉啤酒",
-        "price": 10.3,
-        "pct": 3.0,
-        "amount": 7453.0,
-        "turnover": 0.0,
-        "score": 30,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.44,
-        "near_high": 0.99
-      },
-      {
-        "code": "603755",
-        "name": "日辰股份",
-        "price": 25.97,
-        "pct": 2.97,
-        "amount": 2986.0,
-        "turnover": 0.0,
-        "score": 29,
         "tags": [
           "二波启动"
         ],
@@ -1571,116 +1234,515 @@
         "near_high": 1.0
       },
       {
-        "code": "603658",
-        "name": "安图生物",
-        "price": 34.57,
-        "pct": 2.73,
-        "amount": 3106.0,
+        "code": "600059",
+        "name": "古越龙山",
+        "price": 11.83,
+        "pct": 7.55,
+        "amount": 85475.0,
         "turnover": 0.0,
-        "score": 29,
+        "score": 46,
         "tags": [
-          "二波启动"
+          "二波启动",
+          "主升趋势"
         ],
-        "volume_ratio": 0.3,
-        "near_high": 0.983
-      },
-      {
-        "code": "603797",
-        "name": "联泰环保",
-        "price": 5.04,
-        "pct": 2.86,
-        "amount": 2135.0,
-        "turnover": 0.0,
-        "score": 28,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.51,
+        "volume_ratio": 1.17,
         "near_high": 1.0
       },
       {
-        "code": "002095",
-        "name": "生 意 宝",
-        "price": 16.27,
-        "pct": 1.5,
-        "amount": 7445.0,
+        "code": "600825",
+        "name": "新华传媒",
+        "price": 8.55,
+        "pct": 10.04,
+        "amount": 3478.0,
         "turnover": 0.0,
-        "score": 28,
+        "score": 45,
         "tags": [
-          "二波启动"
+          "连板5"
         ],
-        "volume_ratio": 0.43,
-        "near_high": 0.981
+        "volume_ratio": 0.49,
+        "near_high": 1.0
       },
       {
-        "code": "601777",
-        "name": "千里科技",
-        "price": 8.52,
-        "pct": 2.9,
-        "amount": 12830.0,
+        "code": "002342",
+        "name": "巨力索具",
+        "price": 8.44,
+        "pct": 6.97,
+        "amount": 50038.0,
         "turnover": 0.0,
-        "score": 27,
+        "score": 44,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 0.82,
-        "near_high": 0.967
+        "volume_ratio": 1.29,
+        "near_high": 0.766
       },
       {
-        "code": "600605",
-        "name": "汇通能源",
-        "price": 30.76,
-        "pct": 1.69,
-        "amount": 11529.0,
+        "code": "603970",
+        "name": "中农立华",
+        "price": 12.76,
+        "pct": 4.85,
+        "amount": 19964.0,
         "turnover": 0.0,
-        "score": 27,
+        "score": 44,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.9,
+        "near_high": 1.0
+      },
+      {
+        "code": "002935",
+        "name": "天奥电子",
+        "price": 18.65,
+        "pct": 3.15,
+        "amount": 23740.0,
+        "turnover": 0.0,
+        "score": 44,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 0.68,
+        "volume_ratio": 2.11,
+        "near_high": 0.827
+      },
+      {
+        "code": "002959",
+        "name": "小熊电器",
+        "price": 33.53,
+        "pct": 6.17,
+        "amount": 8161.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 4.24,
+        "near_high": 0.963
+      },
+      {
+        "code": "002395",
+        "name": "双象股份",
+        "price": 14.58,
+        "pct": 3.77,
+        "amount": 24336.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.64,
+        "near_high": 1.0
+      },
+      {
+        "code": "600006",
+        "name": "东风股份",
+        "price": 5.58,
+        "pct": 1.64,
+        "amount": 13574.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "主升趋势"
+        ],
+        "volume_ratio": 1.46,
         "near_high": 0.97
+      },
+      {
+        "code": "002669",
+        "name": "康达新材",
+        "price": 15.74,
+        "pct": 3.89,
+        "amount": 45479.0,
+        "turnover": 0.0,
+        "score": 42,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.17,
+        "near_high": 1.0
+      },
+      {
+        "code": "002099",
+        "name": "海翔药业",
+        "price": 6.1,
+        "pct": 4.81,
+        "amount": 12360.0,
+        "turnover": 0.0,
+        "score": 41,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.81,
+        "near_high": 1.0
+      },
+      {
+        "code": "002285",
+        "name": "世联行",
+        "price": 3.4,
+        "pct": 4.29,
+        "amount": 54669.0,
+        "turnover": 0.0,
+        "score": 41,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.94,
+        "near_high": 1.0
+      },
+      {
+        "code": "000592",
+        "name": "平潭发展",
+        "price": 9.13,
+        "pct": 3.99,
+        "amount": 277713.0,
+        "turnover": 0.0,
+        "score": 41,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.9,
+        "near_high": 1.0
+      },
+      {
+        "code": "601218",
+        "name": "吉鑫科技",
+        "price": 5.69,
+        "pct": 3.45,
+        "amount": 79924.0,
+        "turnover": 0.0,
+        "score": 41,
+        "tags": [
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.61,
+        "near_high": 0.99
+      },
+      {
+        "code": "000020",
+        "name": "深华发Ａ",
+        "price": 14.64,
+        "pct": 9.99,
+        "amount": 16110.0,
+        "turnover": 0.0,
+        "score": 40,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.01,
+        "near_high": 0.983
+      },
+      {
+        "code": "600593",
+        "name": "大连圣亚",
+        "price": 50.56,
+        "pct": 3.08,
+        "amount": 31530.0,
+        "turnover": 0.0,
+        "score": 40,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.79,
+        "near_high": 1.0
+      },
+      {
+        "code": "603092",
+        "name": "德力佳",
+        "price": 47.2,
+        "pct": 2.94,
+        "amount": 12071.0,
+        "turnover": 0.0,
+        "score": 40,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.35,
+        "near_high": 0.875
+      },
+      {
+        "code": "002612",
+        "name": "朗姿股份",
+        "price": 17.83,
+        "pct": 4.03,
+        "amount": 8961.0,
+        "turnover": 0.0,
+        "score": 39,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.58,
+        "near_high": 1.0
+      },
+      {
+        "code": "603727",
+        "name": "博迈科",
+        "price": 18.89,
+        "pct": 3.56,
+        "amount": 3793.0,
+        "turnover": 0.0,
+        "score": 39,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.69,
+        "near_high": 0.982
+      },
+      {
+        "code": "001211",
+        "name": "双枪科技",
+        "price": 26.36,
+        "pct": 2.65,
+        "amount": 8683.0,
+        "turnover": 0.0,
+        "score": 39,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.74,
+        "near_high": 1.0
+      },
+      {
+        "code": "603767",
+        "name": "中马传动",
+        "price": 15.09,
+        "pct": 2.37,
+        "amount": 26665.0,
+        "turnover": 0.0,
+        "score": 39,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 4.05,
+        "near_high": 0.948
+      },
+      {
+        "code": "002583",
+        "name": "海能达",
+        "price": 8.59,
+        "pct": 6.97,
+        "amount": 49795.0,
+        "turnover": 0.0,
+        "score": 38,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 3.03,
+        "near_high": 0.984
+      },
+      {
+        "code": "002347",
+        "name": "泰尔股份",
+        "price": 6.23,
+        "pct": 6.68,
+        "amount": 23164.0,
+        "turnover": 0.0,
+        "score": 38,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 2.47,
+        "near_high": 0.992
+      },
+      {
+        "code": "002638",
+        "name": "勤上股份",
+        "price": 5.0,
+        "pct": 1.42,
+        "amount": 14659.0,
+        "turnover": 0.0,
+        "score": 38,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.75,
+        "near_high": 1.0
       },
       {
         "code": "603773",
         "name": "沃格光电",
-        "price": 101.78,
-        "pct": 4.18,
-        "amount": 218013.0,
+        "price": 102.69,
+        "pct": 5.11,
+        "amount": 253094.0,
         "turnover": 0.0,
-        "score": 26,
+        "score": 36,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 0.91,
-        "near_high": 0.804
+        "volume_ratio": 1.05,
+        "near_high": 0.818
       },
       {
-        "code": "001266",
-        "name": "宏英智能",
-        "price": 36.85,
-        "pct": 3.51,
-        "amount": 10498.0,
+        "code": "600418",
+        "name": "江淮汽车",
+        "price": 24.07,
+        "pct": 4.97,
+        "amount": 202221.0,
         "turnover": 0.0,
-        "score": 26,
+        "score": 36,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 0.93,
-        "near_high": 0.801
+        "volume_ratio": 1.07,
+        "near_high": 0.916
       },
       {
-        "code": "600241",
-        "name": "时代万恒",
-        "price": 7.46,
-        "pct": 2.05,
-        "amount": 2807.0,
+        "code": "603278",
+        "name": "大业股份",
+        "price": 10.15,
+        "pct": 3.57,
+        "amount": 39395.0,
         "turnover": 0.0,
-        "score": 25,
+        "score": 36,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 1.22,
-        "near_high": 0.973
+        "volume_ratio": 4.49,
+        "near_high": 0.93
+      },
+      {
+        "code": "002568",
+        "name": "百润股份",
+        "price": 19.66,
+        "pct": 2.13,
+        "amount": 13667.0,
+        "turnover": 0.0,
+        "score": 35,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.62,
+        "near_high": 0.953
+      },
+      {
+        "code": "603677",
+        "name": "奇精机械",
+        "price": 14.6,
+        "pct": 1.11,
+        "amount": 958.0,
+        "turnover": 0.0,
+        "score": 35,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.35,
+        "near_high": 1.0
+      },
+      {
+        "code": "600616",
+        "name": "金枫酒业",
+        "price": 5.28,
+        "pct": 3.33,
+        "amount": 22988.0,
+        "turnover": 0.0,
+        "score": 34,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.19,
+        "near_high": 0.985
+      },
+      {
+        "code": "001330",
+        "name": "博纳影业",
+        "price": 6.36,
+        "pct": 10.03,
+        "amount": 17552.0,
+        "turnover": 0.0,
+        "score": 33,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.19,
+        "near_high": 1.0
+      },
+      {
+        "code": "603978",
+        "name": "深圳新星",
+        "price": 26.58,
+        "pct": 2.19,
+        "amount": 15876.0,
+        "turnover": 0.0,
+        "score": 33,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.33,
+        "near_high": 0.978
+      },
+      {
+        "code": "002434",
+        "name": "万里扬",
+        "price": 6.23,
+        "pct": 0.97,
+        "amount": 4736.0,
+        "turnover": 0.0,
+        "score": 33,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.49,
+        "near_high": 0.963
+      },
+      {
+        "code": "603797",
+        "name": "联泰环保",
+        "price": 5.1,
+        "pct": 4.08,
+        "amount": 4500.0,
+        "turnover": 0.0,
+        "score": 32,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.01,
+        "near_high": 1.0
+      },
+      {
+        "code": "603507",
+        "name": "振江股份",
+        "price": 27.67,
+        "pct": 3.44,
+        "amount": 20537.0,
+        "turnover": 0.0,
+        "score": 32,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.78,
+        "near_high": 0.997
+      },
+      {
+        "code": "600178",
+        "name": "东安动力",
+        "price": 10.05,
+        "pct": 3.4,
+        "amount": 12180.0,
+        "turnover": 0.0,
+        "score": 31,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 1.67,
+        "near_high": 0.983
+      },
+      {
+        "code": "000069",
+        "name": "华侨城Ａ",
+        "price": 1.9,
+        "pct": 3.26,
+        "amount": 7531.0,
+        "turnover": 0.0,
+        "score": 31,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.63,
+        "near_high": 0.984
       }
     ]
   },
@@ -1688,7 +1750,7 @@
   "health": {
     "universe": 3013,
     "deep_scan": 250,
-    "records": 74,
+    "records": 88,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
