@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 15:48:12",
+  "updated_at": "2026-09-29 16:01:41",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3013,
@@ -11,11 +11,11 @@
   "radar": {
     "lianban": [
       {
-        "code": "600032",
-        "name": "浙江新能",
-        "price": 8.17,
-        "pct": 9.96,
-        "amount": 45486.0,
+        "code": "002912",
+        "name": "中新赛克",
+        "price": 29.12,
+        "pct": 10.01,
+        "amount": 78920.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -24,7 +24,24 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.94,
+        "volume_ratio": 1.98,
+        "near_high": 1.0
+      },
+      {
+        "code": "000011",
+        "name": "深物业A",
+        "price": 11.13,
+        "pct": 9.98,
+        "amount": 46772.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.73,
         "near_high": 1.0
       },
       {
@@ -58,21 +75,6 @@
         ],
         "volume_ratio": 1.36,
         "near_high": 0.989
-      },
-      {
-        "code": "002242",
-        "name": "九阳股份",
-        "price": 11.36,
-        "pct": 9.97,
-        "amount": 21446.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 1.09,
-        "near_high": 1.0
       }
     ],
     "second_wave": [
@@ -109,27 +111,11 @@
         "near_high": 1.0
       },
       {
-        "code": "002244",
-        "name": "滨江集团",
-        "price": 9.46,
-        "pct": 10.0,
-        "amount": 76800.0,
-        "turnover": 0.0,
-        "score": 58,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 2.02,
-        "near_high": 0.993
-      },
-      {
-        "code": "600032",
-        "name": "浙江新能",
-        "price": 8.17,
-        "pct": 9.96,
-        "amount": 45486.0,
+        "code": "002912",
+        "name": "中新赛克",
+        "price": 29.12,
+        "pct": 10.01,
+        "amount": 78920.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -138,22 +124,41 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.94,
+        "volume_ratio": 1.98,
         "near_high": 1.0
       },
       {
-        "code": "002866",
-        "name": "传艺科技",
-        "price": 15.36,
-        "pct": 10.03,
-        "amount": 18904.0,
+        "code": "600325",
+        "name": "华发股份",
+        "price": 2.95,
+        "pct": 10.07,
+        "amount": 49596.0,
         "turnover": 0.0,
-        "score": 57,
+        "score": 56,
         "tags": [
-          "二波启动"
+          "二波启动",
+          "主升趋势",
+          "放量突破"
         ],
-        "volume_ratio": 2.53,
-        "near_high": 0.962
+        "volume_ratio": 1.69,
+        "near_high": 1.0
+      },
+      {
+        "code": "000011",
+        "name": "深物业A",
+        "price": 11.13,
+        "pct": 9.98,
+        "amount": 46772.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.73,
+        "near_high": 1.0
       },
       {
         "code": "600488",
@@ -186,66 +191,6 @@
         ],
         "volume_ratio": 3.86,
         "near_high": 0.998
-      },
-      {
-        "code": "603630",
-        "name": "拉芳家化",
-        "price": 15.57,
-        "pct": 10.04,
-        "amount": 22288.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 2.44,
-        "near_high": 0.991
-      },
-      {
-        "code": "002799",
-        "name": "环球印务",
-        "price": 7.55,
-        "pct": 10.06,
-        "amount": 12345.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 3.12,
-        "near_high": 1.0
-      },
-      {
-        "code": "603602",
-        "name": "纵横通信",
-        "price": 12.71,
-        "pct": 10.04,
-        "amount": 13344.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 3.82,
-        "near_high": 1.0
-      },
-      {
-        "code": "002242",
-        "name": "九阳股份",
-        "price": 11.36,
-        "pct": 9.97,
-        "amount": 21446.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 1.09,
-        "near_high": 1.0
       },
       {
         "code": "002303",
@@ -306,18 +251,18 @@
         "near_high": 0.95
       },
       {
-        "code": "603188",
-        "name": "亚邦股份",
-        "price": 4.91,
-        "pct": 10.09,
-        "amount": 11821.0,
+        "code": "600657",
+        "name": "信达地产",
+        "price": 3.38,
+        "pct": 10.1,
+        "amount": 25287.0,
         "turnover": 0.0,
-        "score": 34,
+        "score": 25,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 1.54,
-        "near_high": 0.968
+        "volume_ratio": 0.77,
+        "near_high": 0.966
       }
     ],
     "main_rise": [
@@ -384,27 +329,11 @@
         "near_high": 1.0
       },
       {
-        "code": "002244",
-        "name": "滨江集团",
-        "price": 9.46,
-        "pct": 10.0,
-        "amount": 76800.0,
-        "turnover": 0.0,
-        "score": 58,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 2.02,
-        "near_high": 0.993
-      },
-      {
-        "code": "600032",
-        "name": "浙江新能",
-        "price": 8.17,
-        "pct": 9.96,
-        "amount": 45486.0,
+        "code": "002912",
+        "name": "中新赛克",
+        "price": 29.12,
+        "pct": 10.01,
+        "amount": 78920.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -413,7 +342,40 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.94,
+        "volume_ratio": 1.98,
+        "near_high": 1.0
+      },
+      {
+        "code": "600325",
+        "name": "华发股份",
+        "price": 2.95,
+        "pct": 10.07,
+        "amount": 49596.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.69,
+        "near_high": 1.0
+      },
+      {
+        "code": "000011",
+        "name": "深物业A",
+        "price": 11.13,
+        "pct": 9.98,
+        "amount": 46772.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.73,
         "near_high": 1.0
       },
       {
@@ -559,27 +521,11 @@
         "near_high": 1.0
       },
       {
-        "code": "002244",
-        "name": "滨江集团",
-        "price": 9.46,
-        "pct": 10.0,
-        "amount": 76800.0,
-        "turnover": 0.0,
-        "score": 58,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 2.02,
-        "near_high": 0.993
-      },
-      {
-        "code": "600032",
-        "name": "浙江新能",
-        "price": 8.17,
-        "pct": 9.96,
-        "amount": 45486.0,
+        "code": "002912",
+        "name": "中新赛克",
+        "price": 29.12,
+        "pct": 10.01,
+        "amount": 78920.0,
         "turnover": 0.0,
         "score": 57,
         "tags": [
@@ -588,22 +534,41 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.94,
+        "volume_ratio": 1.98,
         "near_high": 1.0
       },
       {
-        "code": "002866",
-        "name": "传艺科技",
-        "price": 15.36,
-        "pct": 10.03,
-        "amount": 18904.0,
+        "code": "600325",
+        "name": "华发股份",
+        "price": 2.95,
+        "pct": 10.07,
+        "amount": 49596.0,
         "turnover": 0.0,
-        "score": 57,
+        "score": 56,
         "tags": [
-          "二波启动"
+          "二波启动",
+          "主升趋势",
+          "放量突破"
         ],
-        "volume_ratio": 2.53,
-        "near_high": 0.962
+        "volume_ratio": 1.69,
+        "near_high": 1.0
+      },
+      {
+        "code": "000011",
+        "name": "深物业A",
+        "price": 11.13,
+        "pct": 9.98,
+        "amount": 46772.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.73,
+        "near_high": 1.0
       },
       {
         "code": "600825",
@@ -652,66 +617,6 @@
         ],
         "volume_ratio": 3.86,
         "near_high": 0.998
-      },
-      {
-        "code": "603630",
-        "name": "拉芳家化",
-        "price": 15.57,
-        "pct": 10.04,
-        "amount": 22288.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 2.44,
-        "near_high": 0.991
-      },
-      {
-        "code": "002799",
-        "name": "环球印务",
-        "price": 7.55,
-        "pct": 10.06,
-        "amount": 12345.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 3.12,
-        "near_high": 1.0
-      },
-      {
-        "code": "603602",
-        "name": "纵横通信",
-        "price": 12.71,
-        "pct": 10.04,
-        "amount": 13344.0,
-        "turnover": 0.0,
-        "score": 50,
-        "tags": [
-          "二波启动",
-          "放量突破"
-        ],
-        "volume_ratio": 3.82,
-        "near_high": 1.0
-      },
-      {
-        "code": "002242",
-        "name": "九阳股份",
-        "price": 11.36,
-        "pct": 9.97,
-        "amount": 21446.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 1.09,
-        "near_high": 1.0
       },
       {
         "code": "002303",
@@ -796,18 +701,18 @@
         "near_high": 0.95
       },
       {
-        "code": "603188",
-        "name": "亚邦股份",
-        "price": 4.91,
-        "pct": 10.09,
-        "amount": 11821.0,
+        "code": "600657",
+        "name": "信达地产",
+        "price": 3.38,
+        "pct": 10.1,
+        "amount": 25287.0,
         "turnover": 0.0,
-        "score": 34,
+        "score": 25,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 1.54,
-        "near_high": 0.968
+        "volume_ratio": 0.77,
+        "near_high": 0.966
       }
     ]
   },
@@ -815,7 +720,7 @@
   "health": {
     "universe": 3013,
     "deep_scan": 250,
-    "records": 21,
+    "records": 17,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
