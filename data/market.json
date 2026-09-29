@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 11:46:49",
+  "updated_at": "2026-09-29 12:02:12",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3013,
@@ -10,101 +10,15 @@
   },
   "radar": {
     "lianban": [],
-    "second_wave": [
-      {
-        "code": "603258",
-        "name": "电魂网络",
-        "price": 14.28,
-        "pct": 4.08,
-        "amount": 6109.0,
-        "turnover": 0.0,
-        "score": 31,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.99,
-        "near_high": 0.967
-      },
-      {
-        "code": "002316",
-        "name": "亚联发展",
-        "price": 4.54,
-        "pct": 4.13,
-        "amount": 5601.0,
-        "turnover": 0.0,
-        "score": 19,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.77,
-        "near_high": 0.97
-      },
-      {
-        "code": "603958",
-        "name": "哈森股份",
-        "price": 18.71,
-        "pct": 3.94,
-        "amount": 13444.0,
-        "turnover": 0.0,
-        "score": 14,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.45,
-        "near_high": 0.784
-      }
-    ],
+    "second_wave": [],
     "main_rise": [],
-    "trend": [
-      {
-        "code": "603258",
-        "name": "电魂网络",
-        "price": 14.28,
-        "pct": 4.08,
-        "amount": 6109.0,
-        "turnover": 0.0,
-        "score": 31,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.99,
-        "near_high": 0.967
-      },
-      {
-        "code": "002316",
-        "name": "亚联发展",
-        "price": 4.54,
-        "pct": 4.13,
-        "amount": 5601.0,
-        "turnover": 0.0,
-        "score": 19,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.77,
-        "near_high": 0.97
-      },
-      {
-        "code": "603958",
-        "name": "哈森股份",
-        "price": 18.71,
-        "pct": 3.94,
-        "amount": 13444.0,
-        "turnover": 0.0,
-        "score": 14,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.45,
-        "near_high": 0.784
-      }
-    ]
+    "trend": []
   },
   "source": "Tencent",
   "health": {
     "universe": 3013,
     "deep_scan": 250,
-    "records": 3,
+    "records": 0,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
