@@ -1,361 +1,153 @@
 {
-  "updated_at": "2026-10-30 19:14:18",
+  "updated_at": "2026-11-02 15:30:08",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3015,
-    "limit_up": 39,
-    "limit_down": 104,
-    "avg_pct": -2.36,
-    "total_amount": 95926920.0
+    "limit_up": 103,
+    "limit_down": 8,
+    "avg_pct": 2.06,
+    "total_amount": 103750863.0
   },
   "radar": {
     "lianban": [
       {
-        "code": "002086",
-        "name": "东方海洋",
-        "price": 2.83,
-        "pct": 10.12,
-        "amount": 119026.0,
+        "code": "000410",
+        "name": "沈阳机床",
+        "price": 5.91,
+        "pct": 10.06,
+        "amount": 120633.0,
         "turnover": 0.0,
-        "score": 58,
+        "score": 60,
         "tags": [
           "连板2",
           "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 2.13,
+        "volume_ratio": 6.21,
         "near_high": 1.0
       },
       {
-        "code": "603131",
-        "name": "上海沪工",
-        "price": 17.55,
-        "pct": 10.03,
-        "amount": 18968.0,
+        "code": "001219",
+        "name": "青岛食品",
+        "price": 21.93,
+        "pct": 9.98,
+        "amount": 77157.0,
         "turnover": 0.0,
-        "score": 48,
+        "score": 59,
         "tags": [
-          "连板3",
-          "二波启动"
+          "连板6",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
         ],
-        "volume_ratio": 1.12,
+        "volume_ratio": 5.35,
         "near_high": 1.0
       },
       {
-        "code": "600261",
-        "name": "阳光照明",
-        "price": 4.09,
+        "code": "600189",
+        "name": "泉阳泉",
+        "price": 9.72,
         "pct": 9.95,
-        "amount": 13702.0,
+        "amount": 96731.0,
         "turnover": 0.0,
-        "score": 47,
+        "score": 49,
         "tags": [
           "连板2",
-          "二波启动"
+          "二波启动",
+          "放量突破"
         ],
-        "volume_ratio": 0.9,
+        "volume_ratio": 3.27,
         "near_high": 1.0
       },
       {
         "code": "002172",
         "name": "澳洋健康",
-        "price": 5.91,
-        "pct": 10.06,
-        "amount": 128851.0,
+        "price": 6.5,
+        "pct": 9.98,
+        "amount": 122355.0,
         "turnover": 0.0,
-        "score": 37,
+        "score": 44,
         "tags": [
-          "连板3"
+          "连板4",
+          "二波启动"
         ],
-        "volume_ratio": 1.49,
-        "near_high": 0.998
+        "volume_ratio": 1.22,
+        "near_high": 1.0
+      },
+      {
+        "code": "000417",
+        "name": "合百集团",
+        "price": 6.27,
+        "pct": 10.0,
+        "amount": 47157.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "连板2",
+          "二波启动"
+        ],
+        "volume_ratio": 3.39,
+        "near_high": 0.911
       }
     ],
     "second_wave": [
       {
-        "code": "002086",
-        "name": "东方海洋",
-        "price": 2.83,
-        "pct": 10.12,
-        "amount": 119026.0,
-        "turnover": 0.0,
-        "score": 58,
-        "tags": [
-          "连板2",
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 2.13,
-        "near_high": 1.0
-      },
-      {
-        "code": "603198",
-        "name": "迎驾贡酒",
-        "price": 44.47,
-        "pct": 9.99,
-        "amount": 38994.0,
-        "turnover": 0.0,
-        "score": 56,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 1.78,
-        "near_high": 1.0
-      },
-      {
-        "code": "603131",
-        "name": "上海沪工",
-        "price": 17.55,
-        "pct": 10.03,
-        "amount": 18968.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "连板3",
-          "二波启动"
-        ],
-        "volume_ratio": 1.12,
-        "near_high": 1.0
-      },
-      {
-        "code": "000596",
-        "name": "古井贡酒",
-        "price": 95.7,
-        "pct": 10.0,
-        "amount": 99106.0,
-        "turnover": 0.0,
-        "score": 47,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 2.74,
-        "near_high": 0.946
-      },
-      {
-        "code": "000995",
-        "name": "皇台酒业",
-        "price": 14.18,
-        "pct": 10.01,
-        "amount": 70775.0,
-        "turnover": 0.0,
-        "score": 47,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 1.54,
-        "near_high": 0.993
-      },
-      {
-        "code": "600261",
-        "name": "阳光照明",
-        "price": 4.09,
-        "pct": 9.95,
-        "amount": 13702.0,
-        "turnover": 0.0,
-        "score": 47,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 0.9,
-        "near_high": 1.0
-      },
-      {
-        "code": "000568",
-        "name": "泸州老窖",
-        "price": 77.07,
-        "pct": 10.01,
-        "amount": 311640.0,
-        "turnover": 0.0,
-        "score": 43,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 2.99,
-        "near_high": 0.882
-      },
-      {
-        "code": "600215",
-        "name": "派斯林",
-        "price": 6.37,
-        "pct": 10.02,
-        "amount": 27042.0,
-        "turnover": 0.0,
-        "score": 43,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 3.27,
-        "near_high": 0.938
-      },
-      {
-        "code": "002582",
-        "name": "好想你",
-        "price": 9.93,
-        "pct": 9.97,
-        "amount": 59834.0,
-        "turnover": 0.0,
-        "score": 42,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 5.59,
-        "near_high": 0.844
-      },
-      {
         "code": "000410",
         "name": "沈阳机床",
-        "price": 5.37,
-        "pct": 10.04,
-        "amount": 24768.0,
-        "turnover": 0.0,
-        "score": 40,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.95,
-        "near_high": 0.932
-      },
-      {
-        "code": "000716",
-        "name": "黑芝麻",
-        "price": 5.24,
-        "pct": 10.08,
-        "amount": 16022.0,
-        "turnover": 0.0,
-        "score": 39,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.74,
-        "near_high": 0.887
-      },
-      {
-        "code": "603200",
-        "name": "上海洗霸",
-        "price": 51.72,
-        "pct": 10.0,
-        "amount": 115048.0,
-        "turnover": 0.0,
-        "score": 33,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.05,
-        "near_high": 0.932
-      }
-    ],
-    "main_rise": [
-      {
-        "code": "600258",
-        "name": "首旅酒店",
-        "price": 12.43,
-        "pct": 10.0,
-        "amount": 88230.0,
+        "price": 5.91,
+        "pct": 10.06,
+        "amount": 120633.0,
         "turnover": 0.0,
         "score": 60,
         "tags": [
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 4.89,
-        "near_high": 0.988
-      },
-      {
-        "code": "002086",
-        "name": "东方海洋",
-        "price": 2.83,
-        "pct": 10.12,
-        "amount": 119026.0,
-        "turnover": 0.0,
-        "score": 58,
-        "tags": [
           "连板2",
           "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 2.13,
+        "volume_ratio": 6.21,
         "near_high": 1.0
       },
       {
-        "code": "603198",
-        "name": "迎驾贡酒",
-        "price": 44.47,
-        "pct": 9.99,
-        "amount": 38994.0,
-        "turnover": 0.0,
-        "score": 56,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 1.78,
-        "near_high": 1.0
-      },
-      {
-        "code": "000995",
-        "name": "皇台酒业",
-        "price": 14.18,
-        "pct": 10.01,
-        "amount": 70775.0,
-        "turnover": 0.0,
-        "score": 47,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 1.54,
-        "near_high": 0.993
-      }
-    ],
-    "trend": [
-      {
-        "code": "600258",
-        "name": "首旅酒店",
-        "price": 12.43,
+        "code": "600754",
+        "name": "锦江酒店",
+        "price": 20.57,
         "pct": 10.0,
-        "amount": 88230.0,
+        "amount": 64689.0,
         "turnover": 0.0,
         "score": 60,
         "tags": [
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 4.89,
-        "near_high": 0.988
-      },
-      {
-        "code": "002086",
-        "name": "东方海洋",
-        "price": 2.83,
-        "pct": 10.12,
-        "amount": 119026.0,
-        "turnover": 0.0,
-        "score": 58,
-        "tags": [
-          "连板2",
           "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 2.13,
+        "volume_ratio": 3.7,
         "near_high": 1.0
       },
       {
-        "code": "603198",
-        "name": "迎驾贡酒",
-        "price": 44.47,
-        "pct": 9.99,
-        "amount": 38994.0,
+        "code": "001219",
+        "name": "青岛食品",
+        "price": 21.93,
+        "pct": 9.98,
+        "amount": 77157.0,
+        "turnover": 0.0,
+        "score": 59,
+        "tags": [
+          "连板6",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 5.35,
+        "near_high": 1.0
+      },
+      {
+        "code": "000678",
+        "name": "襄阳轴承",
+        "price": 19.89,
+        "pct": 10.01,
+        "amount": 289552.0,
         "turnover": 0.0,
         "score": 56,
         "tags": [
@@ -363,180 +155,553 @@
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.78,
+        "volume_ratio": 1.65,
         "near_high": 1.0
       },
       {
-        "code": "601083",
-        "name": "锦江航运",
-        "price": 13.93,
-        "pct": 10.03,
-        "amount": 27747.0,
+        "code": "600506",
+        "name": "统一股份",
+        "price": 19.0,
+        "pct": 10.02,
+        "amount": 55929.0,
         "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "放量突破"
-        ],
-        "volume_ratio": 2.0,
-        "near_high": 1.0
-      },
-      {
-        "code": "603131",
-        "name": "上海沪工",
-        "price": 17.55,
-        "pct": 10.03,
-        "amount": 18968.0,
-        "turnover": 0.0,
-        "score": 48,
-        "tags": [
-          "连板3",
-          "二波启动"
-        ],
-        "volume_ratio": 1.12,
-        "near_high": 1.0
-      },
-      {
-        "code": "000596",
-        "name": "古井贡酒",
-        "price": 95.7,
-        "pct": 10.0,
-        "amount": 99106.0,
-        "turnover": 0.0,
-        "score": 47,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 2.74,
-        "near_high": 0.946
-      },
-      {
-        "code": "000995",
-        "name": "皇台酒业",
-        "price": 14.18,
-        "pct": 10.01,
-        "amount": 70775.0,
-        "turnover": 0.0,
-        "score": 47,
+        "score": 55,
         "tags": [
           "二波启动",
           "主升趋势",
           "放量突破"
         ],
-        "volume_ratio": 1.54,
-        "near_high": 0.993
-      },
-      {
-        "code": "600261",
-        "name": "阳光照明",
-        "price": 4.09,
-        "pct": 9.95,
-        "amount": 13702.0,
-        "turnover": 0.0,
-        "score": 47,
-        "tags": [
-          "连板2",
-          "二波启动"
-        ],
-        "volume_ratio": 0.9,
+        "volume_ratio": 1.55,
         "near_high": 1.0
       },
       {
-        "code": "000568",
-        "name": "泸州老窖",
-        "price": 77.07,
-        "pct": 10.01,
-        "amount": 311640.0,
+        "code": "600189",
+        "name": "泉阳泉",
+        "price": 9.72,
+        "pct": 9.95,
+        "amount": 96731.0,
         "turnover": 0.0,
-        "score": 43,
+        "score": 49,
         "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 2.99,
-        "near_high": 0.882
-      },
-      {
-        "code": "600215",
-        "name": "派斯林",
-        "price": 6.37,
-        "pct": 10.02,
-        "amount": 27042.0,
-        "turnover": 0.0,
-        "score": 43,
-        "tags": [
-          "二波启动"
+          "连板2",
+          "二波启动",
+          "放量突破"
         ],
         "volume_ratio": 3.27,
-        "near_high": 0.938
+        "near_high": 1.0
       },
       {
-        "code": "002582",
-        "name": "好想你",
-        "price": 9.93,
-        "pct": 9.97,
-        "amount": 59834.0,
+        "code": "002187",
+        "name": "广百股份",
+        "price": 5.8,
+        "pct": 10.06,
+        "amount": 25987.0,
         "turnover": 0.0,
-        "score": 42,
+        "score": 47,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 5.59,
-        "near_high": 0.844
+        "volume_ratio": 2.07,
+        "near_high": 0.96
       },
       {
-        "code": "000410",
-        "name": "沈阳机床",
-        "price": 5.37,
-        "pct": 10.04,
-        "amount": 24768.0,
+        "code": "601599",
+        "name": "浙文影业",
+        "price": 3.47,
+        "pct": 10.16,
+        "amount": 14873.0,
         "turnover": 0.0,
-        "score": 40,
+        "score": 46,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 1.57,
+        "near_high": 1.0
+      },
+      {
+        "code": "601595",
+        "name": "上海电影",
+        "price": 30.25,
+        "pct": 10.0,
+        "amount": 39582.0,
+        "turnover": 0.0,
+        "score": 46,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 1.95,
-        "near_high": 0.932
+        "volume_ratio": 0.77,
+        "near_high": 1.0
       },
       {
-        "code": "000716",
-        "name": "黑芝麻",
-        "price": 5.24,
-        "pct": 10.08,
-        "amount": 16022.0,
+        "code": "002995",
+        "name": "天地在线",
+        "price": 18.27,
+        "pct": 9.99,
+        "amount": 46304.0,
         "turnover": 0.0,
-        "score": 39,
+        "score": 45,
         "tags": [
-          "二波启动"
+          "二波启动",
+          "主升趋势"
         ],
         "volume_ratio": 1.74,
-        "near_high": 0.887
+        "near_high": 0.974
       },
       {
         "code": "002172",
         "name": "澳洋健康",
-        "price": 5.91,
-        "pct": 10.06,
-        "amount": 128851.0,
+        "price": 6.5,
+        "pct": 9.98,
+        "amount": 122355.0,
         "turnover": 0.0,
-        "score": 37,
+        "score": 44,
         "tags": [
-          "连板3"
+          "连板4",
+          "二波启动"
         ],
-        "volume_ratio": 1.49,
-        "near_high": 0.998
+        "volume_ratio": 1.22,
+        "near_high": 1.0
       },
       {
-        "code": "603200",
-        "name": "上海洗霸",
-        "price": 51.72,
+        "code": "000417",
+        "name": "合百集团",
+        "price": 6.27,
         "pct": 10.0,
-        "amount": 115048.0,
+        "amount": 47157.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "连板2",
+          "二波启动"
+        ],
+        "volume_ratio": 3.39,
+        "near_high": 0.911
+      },
+      {
+        "code": "002181",
+        "name": "粤 传 媒",
+        "price": 10.27,
+        "pct": 9.96,
+        "amount": 113269.0,
         "turnover": 0.0,
         "score": 33,
         "tags": [
           "二波启动"
         ],
-        "volume_ratio": 1.05,
-        "near_high": 0.932
+        "volume_ratio": 1.06,
+        "near_high": 0.922
+      },
+      {
+        "code": "002029",
+        "name": "七 匹 狼",
+        "price": 9.39,
+        "pct": 9.95,
+        "amount": 70210.0,
+        "turnover": 0.0,
+        "score": 30,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.53,
+        "near_high": 0.888
+      },
+      {
+        "code": "601086",
+        "name": "国芳集团",
+        "price": 13.46,
+        "pct": 9.97,
+        "amount": 122532.0,
+        "turnover": 0.0,
+        "score": 29,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.39,
+        "near_high": 0.741
+      },
+      {
+        "code": "600892",
+        "name": "大晟文化",
+        "price": 4.37,
+        "pct": 10.08,
+        "amount": 24413.0,
+        "turnover": 0.0,
+        "score": 22,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.83,
+        "near_high": 0.802
+      }
+    ],
+    "main_rise": [
+      {
+        "code": "000410",
+        "name": "沈阳机床",
+        "price": 5.91,
+        "pct": 10.06,
+        "amount": 120633.0,
+        "turnover": 0.0,
+        "score": 60,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 6.21,
+        "near_high": 1.0
+      },
+      {
+        "code": "600754",
+        "name": "锦江酒店",
+        "price": 20.57,
+        "pct": 10.0,
+        "amount": 64689.0,
+        "turnover": 0.0,
+        "score": 60,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 3.7,
+        "near_high": 1.0
+      },
+      {
+        "code": "001219",
+        "name": "青岛食品",
+        "price": 21.93,
+        "pct": 9.98,
+        "amount": 77157.0,
+        "turnover": 0.0,
+        "score": 59,
+        "tags": [
+          "连板6",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 5.35,
+        "near_high": 1.0
+      },
+      {
+        "code": "000678",
+        "name": "襄阳轴承",
+        "price": 19.89,
+        "pct": 10.01,
+        "amount": 289552.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.65,
+        "near_high": 1.0
+      },
+      {
+        "code": "600506",
+        "name": "统一股份",
+        "price": 19.0,
+        "pct": 10.02,
+        "amount": 55929.0,
+        "turnover": 0.0,
+        "score": 55,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.55,
+        "near_high": 1.0
+      },
+      {
+        "code": "002995",
+        "name": "天地在线",
+        "price": 18.27,
+        "pct": 9.99,
+        "amount": 46304.0,
+        "turnover": 0.0,
+        "score": 45,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.74,
+        "near_high": 0.974
+      }
+    ],
+    "trend": [
+      {
+        "code": "000410",
+        "name": "沈阳机床",
+        "price": 5.91,
+        "pct": 10.06,
+        "amount": 120633.0,
+        "turnover": 0.0,
+        "score": 60,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 6.21,
+        "near_high": 1.0
+      },
+      {
+        "code": "600754",
+        "name": "锦江酒店",
+        "price": 20.57,
+        "pct": 10.0,
+        "amount": 64689.0,
+        "turnover": 0.0,
+        "score": 60,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 3.7,
+        "near_high": 1.0
+      },
+      {
+        "code": "001219",
+        "name": "青岛食品",
+        "price": 21.93,
+        "pct": 9.98,
+        "amount": 77157.0,
+        "turnover": 0.0,
+        "score": 59,
+        "tags": [
+          "连板6",
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 5.35,
+        "near_high": 1.0
+      },
+      {
+        "code": "000678",
+        "name": "襄阳轴承",
+        "price": 19.89,
+        "pct": 10.01,
+        "amount": 289552.0,
+        "turnover": 0.0,
+        "score": 56,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.65,
+        "near_high": 1.0
+      },
+      {
+        "code": "600506",
+        "name": "统一股份",
+        "price": 19.0,
+        "pct": 10.02,
+        "amount": 55929.0,
+        "turnover": 0.0,
+        "score": 55,
+        "tags": [
+          "二波启动",
+          "主升趋势",
+          "放量突破"
+        ],
+        "volume_ratio": 1.55,
+        "near_high": 1.0
+      },
+      {
+        "code": "600189",
+        "name": "泉阳泉",
+        "price": 9.72,
+        "pct": 9.95,
+        "amount": 96731.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "连板2",
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 3.27,
+        "near_high": 1.0
+      },
+      {
+        "code": "002187",
+        "name": "广百股份",
+        "price": 5.8,
+        "pct": 10.06,
+        "amount": 25987.0,
+        "turnover": 0.0,
+        "score": 47,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.07,
+        "near_high": 0.96
+      },
+      {
+        "code": "601099",
+        "name": "太平洋",
+        "price": 3.54,
+        "pct": 9.94,
+        "amount": 122884.0,
+        "turnover": 0.0,
+        "score": 46,
+        "tags": [],
+        "volume_ratio": 2.89,
+        "near_high": 0.967
+      },
+      {
+        "code": "601599",
+        "name": "浙文影业",
+        "price": 3.47,
+        "pct": 10.16,
+        "amount": 14873.0,
+        "turnover": 0.0,
+        "score": 46,
+        "tags": [
+          "二波启动",
+          "放量突破"
+        ],
+        "volume_ratio": 1.57,
+        "near_high": 1.0
+      },
+      {
+        "code": "601595",
+        "name": "上海电影",
+        "price": 30.25,
+        "pct": 10.0,
+        "amount": 39582.0,
+        "turnover": 0.0,
+        "score": 46,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.77,
+        "near_high": 1.0
+      },
+      {
+        "code": "002995",
+        "name": "天地在线",
+        "price": 18.27,
+        "pct": 9.99,
+        "amount": 46304.0,
+        "turnover": 0.0,
+        "score": 45,
+        "tags": [
+          "二波启动",
+          "主升趋势"
+        ],
+        "volume_ratio": 1.74,
+        "near_high": 0.974
+      },
+      {
+        "code": "002172",
+        "name": "澳洋健康",
+        "price": 6.5,
+        "pct": 9.98,
+        "amount": 122355.0,
+        "turnover": 0.0,
+        "score": 44,
+        "tags": [
+          "连板4",
+          "二波启动"
+        ],
+        "volume_ratio": 1.22,
+        "near_high": 1.0
+      },
+      {
+        "code": "000417",
+        "name": "合百集团",
+        "price": 6.27,
+        "pct": 10.0,
+        "amount": 47157.0,
+        "turnover": 0.0,
+        "score": 43,
+        "tags": [
+          "连板2",
+          "二波启动"
+        ],
+        "volume_ratio": 3.39,
+        "near_high": 0.911
+      },
+      {
+        "code": "002949",
+        "name": "华阳国际",
+        "price": 14.08,
+        "pct": 10.0,
+        "amount": 36128.0,
+        "turnover": 0.0,
+        "score": 40,
+        "tags": [
+          "放量突破"
+        ],
+        "volume_ratio": 2.07,
+        "near_high": 0.983
+      },
+      {
+        "code": "002181",
+        "name": "粤 传 媒",
+        "price": 10.27,
+        "pct": 9.96,
+        "amount": 113269.0,
+        "turnover": 0.0,
+        "score": 33,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.06,
+        "near_high": 0.922
+      },
+      {
+        "code": "002029",
+        "name": "七 匹 狼",
+        "price": 9.39,
+        "pct": 9.95,
+        "amount": 70210.0,
+        "turnover": 0.0,
+        "score": 30,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.53,
+        "near_high": 0.888
+      },
+      {
+        "code": "601086",
+        "name": "国芳集团",
+        "price": 13.46,
+        "pct": 9.97,
+        "amount": 122532.0,
+        "turnover": 0.0,
+        "score": 29,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 1.39,
+        "near_high": 0.741
+      },
+      {
+        "code": "600892",
+        "name": "大晟文化",
+        "price": 4.37,
+        "pct": 10.08,
+        "amount": 24413.0,
+        "turnover": 0.0,
+        "score": 22,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 0.83,
+        "near_high": 0.802
       }
     ]
   },
@@ -544,7 +709,7 @@
   "health": {
     "universe": 3015,
     "deep_scan": 250,
-    "records": 15,
+    "records": 18,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
