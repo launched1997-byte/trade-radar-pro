@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 18:48:11",
+  "updated_at": "2026-11-24 23:33:25",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3015,
@@ -229,18 +229,18 @@
         "near_high": 0.804
       },
       {
-        "code": "603666",
-        "name": "亿嘉和",
-        "price": 27.9,
-        "pct": 10.02,
-        "amount": 11341.0,
+        "code": "002036",
+        "name": "联创电子",
+        "price": 5.36,
+        "pct": 10.06,
+        "amount": 4520.0,
         "turnover": 0.0,
         "score": 19,
         "tags": [
           "连板2"
         ],
-        "volume_ratio": 0.36,
-        "near_high": 0.886
+        "volume_ratio": 0.21,
+        "near_high": 0.735
       },
       {
         "code": "001229",
@@ -255,20 +255,6 @@
         ],
         "volume_ratio": 0.24,
         "near_high": 0.707
-      },
-      {
-        "code": "002036",
-        "name": "联创电子",
-        "price": 5.36,
-        "pct": 10.06,
-        "amount": 4520.0,
-        "turnover": 0.0,
-        "score": 19,
-        "tags": [
-          "连板2"
-        ],
-        "volume_ratio": 0.21,
-        "near_high": 0.735
       },
       {
         "code": "601599",
@@ -313,20 +299,6 @@
         "near_high": 0.697
       },
       {
-        "code": "002708",
-        "name": "光洋股份",
-        "price": 23.09,
-        "pct": 10.0,
-        "amount": 9997.0,
-        "turnover": 0.0,
-        "score": 18,
-        "tags": [
-          "连板2"
-        ],
-        "volume_ratio": 0.05,
-        "near_high": 0.868
-      },
-      {
         "code": "002164",
         "name": "宁波东力",
         "price": 19.73,
@@ -339,6 +311,20 @@
         ],
         "volume_ratio": 0.04,
         "near_high": 0.832
+      },
+      {
+        "code": "002708",
+        "name": "光洋股份",
+        "price": 23.09,
+        "pct": 10.0,
+        "amount": 9997.0,
+        "turnover": 0.0,
+        "score": 18,
+        "tags": [
+          "连板2"
+        ],
+        "volume_ratio": 0.05,
+        "near_high": 0.868
       },
       {
         "code": "603626",
@@ -387,22 +373,6 @@
         "near_high": 1.0
       },
       {
-        "code": "002749",
-        "name": "国光股份",
-        "price": 9.94,
-        "pct": 7.46,
-        "amount": 39283.0,
-        "turnover": 0.0,
-        "score": 57,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 5.18,
-        "near_high": 1.0
-      },
-      {
         "code": "002548",
         "name": "金新农",
         "price": 4.55,
@@ -446,6 +416,34 @@
         "near_high": 0.77
       },
       {
+        "code": "603078",
+        "name": "江化微",
+        "price": 27.34,
+        "pct": 6.92,
+        "amount": 184452.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 3.13,
+        "near_high": 0.748
+      },
+      {
+        "code": "603983",
+        "name": "丸美生物",
+        "price": 30.46,
+        "pct": 7.18,
+        "amount": 28128.0,
+        "turnover": 0.0,
+        "score": 48,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.03,
+        "near_high": 0.888
+      },
+      {
         "code": "603206",
         "name": "嘉环科技",
         "price": 14.42,
@@ -473,20 +471,6 @@
         ],
         "volume_ratio": 3.19,
         "near_high": 0.874
-      },
-      {
-        "code": "600839",
-        "name": "四川长虹",
-        "price": 5.66,
-        "pct": 6.59,
-        "amount": 182612.0,
-        "turnover": 0.0,
-        "score": 41,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 2.93,
-        "near_high": 0.795
       },
       {
         "code": "002579",
@@ -581,22 +565,6 @@
         ],
         "volume_ratio": 4.49,
         "near_high": 1.0
-      },
-      {
-        "code": "002749",
-        "name": "国光股份",
-        "price": 9.94,
-        "pct": 7.46,
-        "amount": 39283.0,
-        "turnover": 0.0,
-        "score": 57,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 5.18,
-        "near_high": 1.0
       }
     ],
     "trend": [
@@ -649,22 +617,6 @@
         "near_high": 1.0
       },
       {
-        "code": "002749",
-        "name": "国光股份",
-        "price": 9.94,
-        "pct": 7.46,
-        "amount": 39283.0,
-        "turnover": 0.0,
-        "score": 57,
-        "tags": [
-          "二波启动",
-          "主升趋势",
-          "放量突破"
-        ],
-        "volume_ratio": 5.18,
-        "near_high": 1.0
-      },
-      {
         "code": "002548",
         "name": "金新农",
         "price": 4.55,
@@ -706,6 +658,34 @@
         ],
         "volume_ratio": 1.81,
         "near_high": 0.77
+      },
+      {
+        "code": "603078",
+        "name": "江化微",
+        "price": 27.34,
+        "pct": 6.92,
+        "amount": 184452.0,
+        "turnover": 0.0,
+        "score": 49,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 3.13,
+        "near_high": 0.748
+      },
+      {
+        "code": "603983",
+        "name": "丸美生物",
+        "price": 30.46,
+        "pct": 7.18,
+        "amount": 28128.0,
+        "turnover": 0.0,
+        "score": 48,
+        "tags": [
+          "二波启动"
+        ],
+        "volume_ratio": 2.03,
+        "near_high": 0.888
       },
       {
         "code": "002122",
@@ -791,20 +771,6 @@
         ],
         "volume_ratio": 3.19,
         "near_high": 0.874
-      },
-      {
-        "code": "600839",
-        "name": "四川长虹",
-        "price": 5.66,
-        "pct": 6.59,
-        "amount": 182612.0,
-        "turnover": 0.0,
-        "score": 41,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 2.93,
-        "near_high": 0.795
       },
       {
         "code": "002579",
@@ -935,18 +901,18 @@
         "near_high": 0.804
       },
       {
-        "code": "603666",
-        "name": "亿嘉和",
-        "price": 27.9,
-        "pct": 10.02,
-        "amount": 11341.0,
+        "code": "002036",
+        "name": "联创电子",
+        "price": 5.36,
+        "pct": 10.06,
+        "amount": 4520.0,
         "turnover": 0.0,
         "score": 19,
         "tags": [
           "连板2"
         ],
-        "volume_ratio": 0.36,
-        "near_high": 0.886
+        "volume_ratio": 0.21,
+        "near_high": 0.735
       },
       {
         "code": "001229",
@@ -961,20 +927,6 @@
         ],
         "volume_ratio": 0.24,
         "near_high": 0.707
-      },
-      {
-        "code": "002036",
-        "name": "联创电子",
-        "price": 5.36,
-        "pct": 10.06,
-        "amount": 4520.0,
-        "turnover": 0.0,
-        "score": 19,
-        "tags": [
-          "连板2"
-        ],
-        "volume_ratio": 0.21,
-        "near_high": 0.735
       },
       {
         "code": "601599",
@@ -1019,20 +971,6 @@
         "near_high": 0.697
       },
       {
-        "code": "002708",
-        "name": "光洋股份",
-        "price": 23.09,
-        "pct": 10.0,
-        "amount": 9997.0,
-        "turnover": 0.0,
-        "score": 18,
-        "tags": [
-          "连板2"
-        ],
-        "volume_ratio": 0.05,
-        "near_high": 0.868
-      },
-      {
         "code": "002164",
         "name": "宁波东力",
         "price": 19.73,
@@ -1045,6 +983,20 @@
         ],
         "volume_ratio": 0.04,
         "near_high": 0.832
+      },
+      {
+        "code": "002708",
+        "name": "光洋股份",
+        "price": 23.09,
+        "pct": 10.0,
+        "amount": 9997.0,
+        "turnover": 0.0,
+        "score": 18,
+        "tags": [
+          "连板2"
+        ],
+        "volume_ratio": 0.05,
+        "near_high": 0.868
       },
       {
         "code": "603626",
@@ -1080,7 +1032,7 @@
   "health": {
     "universe": 3015,
     "deep_scan": 250,
-    "records": 33,
+    "records": 32,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
