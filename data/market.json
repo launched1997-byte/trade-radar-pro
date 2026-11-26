@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:18:01",
+  "updated_at": "2026-11-26 22:47:44",
   "timezone": "Asia/Shanghai",
   "market": {
     "stock_count": 3015,
@@ -10,101 +10,15 @@
   },
   "radar": {
     "lianban": [],
-    "second_wave": [
-      {
-        "code": "000815",
-        "name": "美利云",
-        "price": 14.78,
-        "pct": 4.53,
-        "amount": 144621.0,
-        "turnover": 0.0,
-        "score": 44,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.87,
-        "near_high": 0.883
-      },
-      {
-        "code": "600189",
-        "name": "泉阳泉",
-        "price": 9.05,
-        "pct": 3.9,
-        "amount": 54151.0,
-        "turnover": 0.0,
-        "score": 16,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.94,
-        "near_high": 0.931
-      },
-      {
-        "code": "000975",
-        "name": "山金国际",
-        "price": 22.23,
-        "pct": 4.56,
-        "amount": 104326.0,
-        "turnover": 0.0,
-        "score": 12,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.91,
-        "near_high": 0.811
-      }
-    ],
+    "second_wave": [],
     "main_rise": [],
-    "trend": [
-      {
-        "code": "000815",
-        "name": "美利云",
-        "price": 14.78,
-        "pct": 4.53,
-        "amount": 144621.0,
-        "turnover": 0.0,
-        "score": 44,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 1.87,
-        "near_high": 0.883
-      },
-      {
-        "code": "600189",
-        "name": "泉阳泉",
-        "price": 9.05,
-        "pct": 3.9,
-        "amount": 54151.0,
-        "turnover": 0.0,
-        "score": 16,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.94,
-        "near_high": 0.931
-      },
-      {
-        "code": "000975",
-        "name": "山金国际",
-        "price": 22.23,
-        "pct": 4.56,
-        "amount": 104326.0,
-        "turnover": 0.0,
-        "score": 12,
-        "tags": [
-          "二波启动"
-        ],
-        "volume_ratio": 0.91,
-        "near_high": 0.811
-      }
-    ]
+    "trend": []
   },
   "source": "Tencent",
   "health": {
     "universe": 3015,
     "deep_scan": 250,
-    "records": 3,
+    "records": 0,
     "errors": [
       "Eastmoney: ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
     ]
